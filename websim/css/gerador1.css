@@ -1,3 +1,5 @@
+/* CSS do site criado por https://websim.com -- 30/09/2025 */
+
 :root {
     --primary-color: #6366f1;
     --secondary-color: #8b5cf6;
@@ -479,4 +481,5 @@ body::after{
         padding: 1.5rem;
     }
 }
+
 
