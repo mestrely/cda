@@ -1,0 +1,405 @@
+// DOM Elements
+const headerFixed = document.getElementById('headerFixed');
+const headerCentered = document.getElementById('headerCentered');
+const headerHeight = document.getElementById('headerHeight');
+const headerHeightValue = document.getElementById('headerHeightValue');
+const footerFixed = document.getElementById('footerFixed');
+const footerCentered = document.getElementById('footerCentered');
+const footerHeight = document.getElementById('footerHeight');
+const footerHeightValue = document.getElementById('footerHeightValue');
+const generateBtn = document.getElementById('generateBtn');
+const refreshPreview = document.getElementById('refreshPreview');
+const copyCode = document.getElementById('copyCode');
+const copyText = document.getElementById('copyText');
+const copyIcon = document.getElementById('copyIcon');
+const generatedCode = document.getElementById('generatedCode');
+const previewContent = document.getElementById('previewContent');
+
+// Update slider values
+headerHeight.addEventListener('input', (e) => {
+    headerHeightValue.textContent = e.target.value + 'px';
+});
+
+footerHeight.addEventListener('input', (e) => {
+    footerHeightValue.textContent = e.target.value + 'px';
+});
+
+// Generate template
+function generateTemplate() {
+    const headerFixedValue = headerFixed.checked;
+    const headerCenteredValue = headerCentered.checked;
+    const headerHeightValue = headerHeight.value;
+    const footerFixedValue = footerFixed.checked;
+    const footerCenteredValue = footerCentered.checked;
+    const footerHeightValue = footerHeight.value;
+    const mainLayout = document.querySelector('input[name="mainLayout"]:checked').value;
+
+    // Generate HTML
+    const html = generateHTML(headerFixedValue, headerCenteredValue, headerHeightValue, 
+                            footerFixedValue, footerCenteredValue, footerHeightValue, mainLayout);
+    
+    // Generate CSS
+    const css = generateCSS(headerFixedValue, headerCenteredValue, headerHeightValue, 
+                         footerFixedValue, footerCenteredValue, footerHeightValue, mainLayout);
+
+    // Combine code
+    const fullCode = `${html}
+
+<style>
+${css}
+</style>`;
+
+    // Update textarea
+    generatedCode.value = fullCode;
+
+    // Update preview
+    updatePreview(html, css);
+}
+
+// Generate HTML
+function generateHTML(headerFixed, headerCentered, headerHeight, footerFixed, footerCentered, footerHeight, mainLayout) {
+    let headerClass = 'header';
+    if (headerFixed) headerClass += ' header-fixed';
+    if (headerCentered) headerClass += ' header-centered';
+
+    let footerClass = 'footer';
+    if (footerFixed) footerClass += ' footer-fixed';
+    if (footerCentered) footerClass += ' footer-centered';
+
+    let mainContent = '';
+    if (mainLayout === 'single') {
+        mainContent = `
+        <div class="container">
+            <div class="row">
+                <div class="wr-col-100">
+                    <div class="content">
+                        <h2>Conteúdo Principal</h2>
+                        <p>Seu conteúdo vai aqui...</p>
+                    </div>
+                </div>
+            </div>
+        </div>`;
+    } else if (mainLayout === 'sidebar') {
+        mainContent = `
+        <div class="container">
+            <div class="row">
+                <div class="wr-col-25 sidebar">
+                    <h3>Sidebar</h3>
+                    <p>Menu lateral</p>
+                </div>
+                <div class="wr-col-75 main-content">
+                    <div class="content">
+                        <h2>Conteúdo Principal</h2>
+                        <p>Seu conteúdo vai aqui...</p>
+                    </div>
+                </div>
+            </div>
+        </div>`;
+    } else if (mainLayout === 'grid') {
+        mainContent = `
+        <div class="container">
+            <div class="row">
+                <div class="wr-col-100">
+                    <div class="grid-container">
+                        <div class="card">Card 1</div>
+                        <div class="card">Card 2</div>
+                        <div class="card">Card 3</div>
+                        <div class="card">Card 4</div>
+                    </div>
+                </div>
+            </div>
+        </div>`;
+    }
+
+    return `<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Template Responsivo</title>
+</head>
+<body>
+    <header class="${headerClass}">
+        <div class="container">
+            <h1>Meu Site</h1>
+        </div>
+    </header>
+
+    <main class="main">
+        ${mainContent}
+    </main>
+
+    <footer class="${footerClass}">
+        <div class="container">
+            <p>&copy; 2024 Meu Site. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+</body>
+</html>`;
+}
+
+// Generate CSS
+function generateCSS(headerFixed, headerCentered, headerHeight, footerFixed, footerCentered, footerHeight, mainLayout) {
+    let css = `/* Grid System - Classes wr-col-1 até wr-col-100 */
+.wr-col-1 { width: 1%; min-width: 1%; max-width: 1%; }
+.wr-col-2 { width: 2%; min-width: 2%; max-width: 2%; }
+.wr-col-3 { width: 3%; min-width: 3%; max-width: 3%; }
+.wr-col-4 { width: 4%; min-width: 4%; max-width: 4%; }
+.wr-col-5 { width: 5%; min-width: 5%; max-width: 5%; }
+.wr-col-6 { width: 6%; min-width: 6%; max-width: 6%; }
+.wr-col-7 { width: 7%; min-width: 7%; max-width: 7%; }
+.wr-col-8 { width: 8%; min-width: 8%; max-width: 8%; }
+.wr-col-9 { width: 9%; min-width: 9%; max-width: 9%; }
+.wr-col-10 { width: 10%; min-width: 10%; max-width: 10%; }
+.wr-col-11 { width: 11%; min-width: 11%; max-width: 11%; }
+.wr-col-12 { width: 12%; min-width: 12%; max-width: 12%; }
+.wr-col-13 { width: 13%; min-width: 13%; max-width: 13%; }
+.wr-col-14 { width: 14%; min-width: 14%; max-width: 14%; }
+.wr-col-15 { width: 15%; min-width: 15%; max-width: 15%; }
+.wr-col-16 { width: 16%; min-width: 16%; max-width: 16%; }
+.wr-col-17 { width: 17%; min-width: 17%; max-width: 17%; }
+.wr-col-18 { width: 18%; min-width: 18%; max-width: 18%; }
+.wr-col-19 { width: 19%; min-width: 19%; max-width: 19%; }
+.wr-col-20 { width: 20%; min-width: 20%; max-width: 20%; }
+.wr-col-21 { width: 21%; min-width: 21%; max-width: 21%; }
+.wr-col-22 { width: 22%; min-width: 22%; max-width: 22%; }
+.wr-col-23 { width: 23%; min-width: 23%; max-width: 23%; }
+.wr-col-24 { width: 24%; min-width: 24%; max-width: 24%; }
+.wr-col-25 { width: 25%; min-width: 25%; max-width: 25%; }
+.wr-col-26 { width: 26%; min-width: 26%; max-width: 26%; }
+.wr-col-27 { width: 27%; min-width: 27%; max-width: 27%; }
+.wr-col-28 { width: 28%; min-width: 28%; max-width: 28%; }
+.wr-col-29 { width: 29%; min-width: 29%; max-width: 29%; }
+.wr-col-30 { width: 30%; min-width: 30%; max-width: 30%; }
+.wr-col-31 { width: 31%; min-width: 31%; max-width: 31%; }
+.wr-col-32 { width: 32%; min-width: 32%; max-width: 32%; }
+.wr-col-33 { width: 33%; min-width: 33%; max-width: 33%; }
+.wr-col-34 { width: 34%; min-width: 34%; max-width: 34%; }
+.wr-col-35 { width: 35%; min-width: 35%; max-width: 35%; }
+.wr-col-36 { width: 36%; min-width: 36%; max-width: 36%; }
+.wr-col-37 { width: 37%; min-width: 37%; max-width: 37%; }
+.wr-col-38 { width: 38%; min-width: 38%; max-width: 38%; }
+.wr-col-39 { width: 39%; min-width: 39%; max-width: 39%; }
+.wr-col-40 { width: 40%; min-width: 40%; max-width: 40%; }
+.wr-col-41 { width: 41%; min-width: 41%; max-width: 41%; }
+.wr-col-42 { width: 42%; min-width: 42%; max-width: 42%; }
+.wr-col-43 { width: 43%; min-width: 43%; max-width: 43%; }
+.wr-col-44 { width: 44%; min-width: 44%; max-width: 44%; }
+.wr-col-45 { width: 45%; min-width: 45%; max-width: 45%; }
+.wr-col-46 { width: 46%; min-width: 46%; max-width: 46%; }
+.wr-col-47 { width: 47%; min-width: 47%; max-width: 47%; }
+.wr-col-48 { width: 48%; min-width: 48%; max-width: 48%; }
+.wr-col-49 { width: 49%; min-width: 49%; max-width: 49%; }
+.wr-col-50 { width: 50%; min-width: 50%; max-width: 50%; }
+.wr-col-51 { width: 51%; min-width: 51%; max-width: 51%; }
+.wr-col-52 { width: 52%; min-width: 52%; max-width: 52%; }
+.wr-col-53 { width: 53%; min-width: 53%; max-width: 53%; }
+.wr-col-54 { width: 54%; min-width: 54%; max-width: 54%; }
+.wr-col-55 { width: 55%; min-width: 55%; max-width: 55%; }
+.wr-col-56 { width: 56%; min-width: 56%; max-width: 56%; }
+.wr-col-57 { width: 57%; min-width: 57%; max-width: 57%; }
+.wr-col-58 { width: 58%; min-width: 58%; max-width: 58%; }
+.wr-col-59 { width: 59%; min-width: 59%; max-width: 59%; }
+.wr-col-60 { width: 60%; min-width: 60%; max-width: 60%; }
+.wr-col-61 { width: 61%; min-width: 61%; max-width: 61%; }
+.wr-col-62 { width: 62%; min-width: 62%; max-width: 62%; }
+.wr-col-63 { width: 63%; min-width: 63%; max-width: 63%; }
+.wr-col-64 { width: 64%; min-width: 64%; max-width: 64%; }
+.wr-col-65 { width: 65%; min-width: 65%; max-width: 65%; }
+.wr-col-66 { width: 66%; min-width: 66%; max-width: 66%; }
+.wr-col-67 { width: 67%; min-width: 67%; max-width: 67%; }
+.wr-col-68 { width: 68%; min-width: 68%; max-width: 68%; }
+.wr-col-69 { width: 69%; min-width: 69%; max-width: 69%; }
+.wr-col-70 { width: 70%; min-width: 70%; max-width: 70%; }
+.wr-col-71 { width: 71%; min-width: 71%; max-width: 71%; }
+.wr-col-72 { width: 72%; min-width: 72%; max-width: 72%; }
+.wr-col-73 { width: 73%; min-width: 73%; max-width: 73%; }
+.wr-col-74 { width: 74%; min-width: 74%; max-width: 74%; }
+.wr-col-75 { width: 75%; min-width: 75%; max-width: 75%; }
+.wr-col-76 { width: 76%; min-width: 76%; max-width: 76%; }
+.wr-col-77 { width: 77%; min-width: 77%; max-width: 77%; }
+.wr-col-78 { width: 78%; min-width: 78%; max-width: 78%; }
+.wr-col-79 { width: 79%; min-width: 79%; max-width: 79%; }
+.wr-col-80 { width: 80%; min-width: 80%; max-width: 80%; }
+.wr-col-81 { width: 81%; min-width: 81%; max-width: 81%; }
+.wr-col-82 { width: 82%; min-width: 82%; max-width: 82%; }
+.wr-col-83 { width: 83%; min-width: 83%; max-width: 83%; }
+.wr-col-84 { width: 84%; min-width: 84%; max-width: 84%; }
+.wr-col-85 { width: 85%; min-width: 85%; max-width: 85%; }
+.wr-col-86 { width: 86%; min-width: 86%; max-width: 86%; }
+.wr-col-87 { width: 87%; min-width: 87%; max-width: 87%; }
+.wr-col-88 { width: 88%; min-width: 88%; max-width: 88%; }
+.wr-col-89 { width: 89%; min-width: 89%; max-width: 89%; }
+.wr-col-90 { width: 90%; min-width: 90%; max-width: 90%; }
+.wr-col-91 { width: 91%; min-width: 91%; max-width: 91%; }
+.wr-col-92 { width: 92%; min-width: 92%; max-width: 92%; }
+.wr-col-93 { width: 93%; min-width: 93%; max-width: 93%; }
+.wr-col-94 { width: 94%; min-width: 94%; max-width: 94%; }
+.wr-col-95 { width: 95%; min-width: 95%; max-width: 95%; }
+.wr-col-96 { width: 96%; min-width: 96%; max-width: 96%; }
+.wr-col-97 { width: 97%; min-width: 97%; max-width: 97%; }
+.wr-col-98 { width: 98%; min-width: 98%; max-width: 98%; }
+.wr-col-99 { width: 99%; min-width: 99%; max-width: 99%; }
+.wr-col-100 { width: 100%; min-width: 100%; max-width: 100%; }
+
+/* Container and Row */
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+/* Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+/* Header Styles */
+.header {
+    background: #333;
+    color: white;
+    padding: 1rem 0;
+    ${headerFixed ? `position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    height: ${headerHeight}px;` : `height: ${headerHeight}px;`}
+}
+
+.header-centered .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+/* Main Styles */
+.main {
+    ${headerFixed ? `margin-top: ${headerHeight}px;` : ''}
+    ${footerFixed ? `margin-bottom: ${footerHeight}px;` : ''}
+    min-height: calc(100vh - ${headerHeight + footerHeight}px);
+}
+
+.content {
+    padding: 2rem;
+}
+
+${mainLayout === 'sidebar' ? `
+.sidebar {
+    background: #f4f4f4;
+    padding: 2rem;
+}
+
+.main-content {
+    padding: 2rem;
+}
+` : ''}
+
+${mainLayout === 'grid' ? `
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    padding: 2rem;
+}
+
+.card {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 2rem;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+` : ''}
+
+/* Footer Styles */
+.footer {
+    background: #333;
+    color: white;
+    padding: 1rem 0;
+    ${footerFixed ? `position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    height: ${footerHeight}px;` : `height: ${footerHeight}px;`}
+}
+
+.footer-centered .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .row {
+        flex-direction: column;
+    }
+    
+    ${mainLayout === 'sidebar' ? `
+    .sidebar,
+    .main-content {
+        width: 100% !important;
+        min-width: 100% !important;
+        max-width: 100% !important;
+    }
+    ` : ''}
+}`;
+
+    return css;
+}
+
+// Update preview
+function updatePreview(html, css) {
+    const previewDoc = `
+        ${html}
+        <style>
+            ${css}
+        </style>
+    `;
+    
+    previewContent.innerHTML = previewDoc;
+}
+
+// Copy code
+copyCode.addEventListener('click', async () => {
+    try {
+        await navigator.clipboard.writeText(generatedCode.value);
+        copyText.textContent = 'Copiado!';
+        copyIcon.textContent = '✅';
+        
+        setTimeout(() => {
+            copyText.textContent = 'Copiar';
+            copyIcon.textContent = '📋';
+        }, 2000);
+    } catch (err) {
+        console.error('Erro ao copiar:', err);
+    }
+});
+
+// Event listeners
+generateBtn.addEventListener('click', generateTemplate);
+refreshPreview.addEventListener('click', generateTemplate);
+
+// Generate initial template
+generateTemplate();
+

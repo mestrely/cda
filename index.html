@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de Templates Responsivos</title>
+    <link rel="stylesheet" href="websim-gerador1.css">
+</head>
+<body>
+    <div class="generator-container">
+        <header class="generator-header">
+            <h1>🎨 Gerador de Templates Responsivos da IA WebSim</h1>
+            <p>Crie layouts personalizados com nosso sistema de grid</p>
+        </header>
+
+        <main class="generator-main">
+            <section class="controls-section">
+                <div class="control-group">
+                    <h2>Header</h2>
+                    <div class="checkbox-group">
+                        <label>
+                            <input type="checkbox" id="headerFixed" checked>
+                            <span>Fixo no topo</span>
+                        </label>
+                        <label>
+                            <input type="checkbox" id="headerCentered" checked>
+                            <span>Centralizar conteúdo</span>
+                        </label>
+                    </div>
+                    <div class="input-group">
+                        <label>Altura do Header:</label>
+                        <input type="range" id="headerHeight" min="60" max="200" value="80">
+                        <span id="headerHeightValue">80px</span>
+                    </div>
+                </div>
+
+                <div class="control-group">
+                    <h2>Main</h2>
+                    <div class="radio-group">
+                        <label>
+                            <input type="radio" name="mainLayout" value="single" checked>
+                            <span>Coluna Única</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="mainLayout" value="sidebar">
+                            <span>Com Sidebar</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="mainLayout" value="grid">
+                            <span>Grid de Cards</span>
+                        </label>
+                    </div>
+                </div>
+
+                <div class="control-group">
+                    <h2>Footer</h2>
+                    <div class="checkbox-group">
+                        <label>
+                            <input type="checkbox" id="footerFixed" checked>
+                            <span>Fixo no rodapé</span>
+                        </label>
+                        <label>
+                            <input type="checkbox" id="footerCentered" checked>
+                            <span>Centralizar conteúdo</span>
+                        </label>
+                    </div>
+                    <div class="input-group">
+                        <label>Altura do Footer:</label>
+                        <input type="range" id="footerHeight" min="60" max="200" value="80">
+                        <span id="footerHeightValue">80px</span>
+                    </div>
+                </div>
+
+                <button id="generateBtn" class="generate-btn">
+                    <span>Gerar Template</span>
+                    <span class="btn-icon">⚡</span>
+                </button>
+            </section>
+
+            <section class="preview-section">
+                <div class="preview-container">
+                    <div class="preview-header">
+                        <h3>Preview</h3>
+                        <button id="refreshPreview" class="refresh-btn">
+                            <span>🔄</span>
+                        </button>
+                    </div>
+                    <div class="preview-content" id="previewContent">
+                        <!-- Preview will be generated here -->
+                    </div>
+                </div>
+            </section>
+
+            <section class="code-section">
+                <div class="code-header">
+                    <h3>Código Gerado</h3>
+                    <button id="copyCode" class="copy-btn">
+                        <span id="copyText">Copiar</span>
+                        <span id="copyIcon">📋</span>
+                    </button>
+                </div>
+                <textarea id="generatedCode" readonly></textarea>
+            </section>
+        </main>
+    </div>
+
+    <script src="websim-gerador1.js"></script>
+</body>
+</html>
