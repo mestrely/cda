@@ -1,0 +1,3610 @@
+/* 
+CSS Name--------------::  wr-fontcolor 
+CSS by--------------::  Web Rochine (WR)
+Date Created--------------::  31/12/2019
+Update Date--------------::  16/05/2025
+Site/ Web Rochine--------------::  https://www.webrochine.com.br
+*/
+/* Até o momento, são 1800 cores */
+
+.wr-fontcolor-0{ color: transparent; }
+
+.wr-fontcolor-1{ color: #000000; }
+
+.wr-fontcolor-2{ color: #1c1c1c; }
+
+.wr-fontcolor-3{ color: #363636; }
+
+.wr-fontcolor-4{ color: #4f4f4f; }
+
+.wr-fontcolor-5{ color: #696969; }
+
+.wr-fontcolor-6{ color: #808080; }
+
+.wr-fontcolor-7{ color: #a9a9a9; }
+
+.wr-fontcolor-8{ color: #c0c0c0; }
+
+.wr-fontcolor-9{ color: #2e2e2e; }
+
+.wr-fontcolor-10{ color: #202020; }
+
+.wr-fontcolor-11{ color: #191919; }
+
+.wr-fontcolor-12{ color: #3a3a3a; }
+
+.wr-fontcolor-13{ color: #464646; }
+
+.wr-fontcolor-14{ color: #575757; }
+
+.wr-fontcolor-15{ color: #4a4a4a; }
+
+.wr-fontcolor-16{ color: #a2a2a2; }
+
+.wr-fontcolor-17{ color: #b5b5b5; }
+
+.wr-fontcolor-18{ color: #c3c3c3; }
+
+.wr-fontcolor-19{ color: #dadada; }
+
+.wr-fontcolor-20{ color: #e2e2e2; }
+
+.wr-fontcolor-21{ color: #eaeaea; }
+
+.wr-fontcolor-22{ color: #ffffff; }
+
+.wr-fontcolor-23{ color: #708090; }
+
+.wr-fontcolor-24{ color: #778899; }
+
+.wr-fontcolor-25{ color: #200000; }
+
+.wr-fontcolor-26{ color: #350000; }
+
+.wr-fontcolor-27{ color: #4a0000; }
+
+.wr-fontcolor-28{ color: #6a0000; }
+
+.wr-fontcolor-29{ color: #790000; }
+
+.wr-fontcolor-30{ color: #950000; }
+
+.wr-fontcolor-31{ color: #ae0000; }
+
+.wr-fontcolor-32{ color: #c60000; }
+
+.wr-fontcolor-33{ color: #df0000; }
+
+.wr-fontcolor-34{ color: #ff0909; }
+
+.wr-fontcolor-35{ color: #ff2828; }
+
+.wr-fontcolor-36{ color: #ff4848; }
+
+.wr-fontcolor-37{ color: #ff6262; }
+
+.wr-fontcolor-38{ color: #ff6f6f; }
+
+.wr-fontcolor-39{ color: #ff8080; }
+
+.wr-fontcolor-40{ color: #ff9595; }
+
+.wr-fontcolor-41{ color: #ffb3b3; }
+
+.wr-fontcolor-42{ color: #ffcaca; }
+
+.wr-fontcolor-43{ color: #ffd9d9; }
+
+.wr-fontcolor-44{ color: #ffeaea; }
+
+.wr-fontcolor-45{ color: #fffbfb; }
+
+.wr-fontcolor-46{ color: #ffff80; }
+
+.wr-fontcolor-47{ color: #242400; }
+
+.wr-fontcolor-48{ color: #282800; }
+
+.wr-fontcolor-49{ color: #353500; }
+
+.wr-fontcolor-50{ color: #4f4f00; }
+
+.wr-fontcolor-51{ color: #6a6a00; }
+
+.wr-fontcolor-52{ color: #828200; }
+
+.wr-fontcolor-53{ color: #9b9b00; }
+
+.wr-fontcolor-54{ color: #b7b700; }
+
+.wr-fontcolor-55{ color: #cece00; }
+
+.wr-fontcolor-56{ color: #ecec00; }
+
+.wr-fontcolor-57{ color: #ffff0f; }
+
+.wr-fontcolor-58{ color: #ffff2f; }
+
+.wr-fontcolor-59{ color: #ffff59; }
+
+.wr-fontcolor-60{ color: #ffff7d; }
+
+.wr-fontcolor-61{ color: #ffff93; }
+
+.wr-fontcolor-62{ color: #ffffaa; }
+
+.wr-fontcolor-63{ color: #ffffb9; }
+
+.wr-fontcolor-64{ color: #ffffcc; }
+
+.wr-fontcolor-65{ color: #ffffe6; }
+
+.wr-fontcolor-66{ color: #fffff2; }
+
+.wr-fontcolor-67{ color: #80ff80; }
+
+.wr-fontcolor-68{ color: #001a00; }
+
+.wr-fontcolor-69{ color: #001700; }
+
+.wr-fontcolor-70{ color: #001c00; }
+
+.wr-fontcolor-71{ color: #002800; }
+
+.wr-fontcolor-72{ color: #003700; }
+
+.wr-fontcolor-73{ color: #004a00; }
+
+.wr-fontcolor-74{ color: #006600; }
+
+.wr-fontcolor-75{ color: #007d00; }
+
+.wr-fontcolor-76{ color: #009300; }
+
+.wr-fontcolor-77{ color: #00a400; }
+
+.wr-fontcolor-78{ color: #00bb00; }
+
+.wr-fontcolor-79{ color: #00cc00; }
+
+.wr-fontcolor-80{ color: #00ea00; }
+
+.wr-fontcolor-81{ color: #11ff11; }
+
+.wr-fontcolor-82{ color: #5bff5b; }
+
+.wr-fontcolor-83{ color: #82ff82; }
+
+.wr-fontcolor-84{ color: #97ff97; }
+
+.wr-fontcolor-85{ color: #b0ffb0; }
+
+.wr-fontcolor-86{ color: #ccffcc; }
+
+.wr-fontcolor-87{ color: #dfffdf; }
+
+.wr-fontcolor-88{ color: #ecffec; }
+
+.wr-fontcolor-89{ color: #00ff80; }
+
+.wr-fontcolor-90{ color: #001a0d; }
+
+.wr-fontcolor-91{ color: #002211; }
+
+.wr-fontcolor-92{ color: #002f17; }
+
+.wr-fontcolor-93{ color: #004f27; }
+
+.wr-fontcolor-94{ color: #006432; }
+
+.wr-fontcolor-95{ color: #007138; }
+
+.wr-fontcolor-96{ color: #008a45; }
+
+.wr-fontcolor-97{ color: #009d4f; }
+
+.wr-fontcolor-98{ color: #00b058; }
+
+.wr-fontcolor-99{ color: #00c161; }
+
+.wr-fontcolor-100{ color: #00e171; }
+
+.wr-fontcolor-101{ color: #00f47a; }
+
+.wr-fontcolor-102{ color: #66ffb3; }
+
+.wr-fontcolor-103{ color: #95ffca; }
+
+.wr-fontcolor-104{ color: #b0ffd8; }
+
+.wr-fontcolor-105{ color: #caffe4; }
+
+.wr-fontcolor-106{ color: #dfffef; }
+
+.wr-fontcolor-107{ color: #f2fff9; }
+
+.wr-fontcolor-108{ color: #80ffff; }
+
+.wr-fontcolor-109{ color: #001515; }
+
+.wr-fontcolor-110{ color: #001c1c; }
+
+.wr-fontcolor-111{ color: #002828; }
+
+.wr-fontcolor-112{ color: #003e3e; }
+
+.wr-fontcolor-113{ color: #005353; }
+
+.wr-fontcolor-114{ color: #006f6f; }
+
+.wr-fontcolor-115{ color: #008282; }
+
+.wr-fontcolor-116{ color: #009797; }
+
+.wr-fontcolor-117{ color: #00aeae; }
+
+.wr-fontcolor-118{ color: #00cccc; }
+
+.wr-fontcolor-119{ color: #00f2f2; }
+
+.wr-fontcolor-120{ color: #1affff; }
+
+.wr-fontcolor-121{ color: #6affff; }
+
+.wr-fontcolor-122{ color: #8cffff; }
+
+.wr-fontcolor-123{ color: #b9ffff; }
+
+.wr-fontcolor-124{ color: #ceffff; }
+
+.wr-fontcolor-125{ color: #ddffff; }
+
+.wr-fontcolor-126{ color: #f9ffff; }
+
+.wr-fontcolor-127{ color: #0080ff; }
+
+.wr-fontcolor-128{ color: #000d1a; }
+
+.wr-fontcolor-129{ color: #001428; }
+
+.wr-fontcolor-130{ color: #00172f; }
+
+.wr-fontcolor-131{ color: #001e3c; }
+
+.wr-fontcolor-132{ color: #002346; }
+
+.wr-fontcolor-133{ color: #002d59; }
+
+.wr-fontcolor-134{ color: #003871; }
+
+.wr-fontcolor-135{ color: #004080; }
+
+.wr-fontcolor-136{ color: #004a95; }
+
+.wr-fontcolor-137{ color: #005cb9; }
+
+.wr-fontcolor-138{ color: #0069d2; }
+
+.wr-fontcolor-139{ color: #007cf9; }
+
+.wr-fontcolor-140{ color: #158aff; }
+
+.wr-fontcolor-141{ color: #359aff; }
+
+.wr-fontcolor-142{ color: #48a4ff; }
+
+.wr-fontcolor-143{ color: #5eaeff; }
+
+.wr-fontcolor-144{ color: #7dbeff; }
+
+.wr-fontcolor-145{ color: #93c9ff; }
+
+.wr-fontcolor-146{ color: #b0d8ff; }
+
+.wr-fontcolor-147{ color: #cae4ff; }
+
+.wr-fontcolor-148{ color: #e6f2ff; }
+
+.wr-fontcolor-149{ color: #ff80c0; }
+
+.wr-fontcolor-150{ color: #200010; }
+
+.wr-fontcolor-151{ color: #2b0015; }
+
+.wr-fontcolor-152{ color: #37001c; }
+
+.wr-fontcolor-153{ color: #510028; }
+
+.wr-fontcolor-154{ color: #6a0035; }
+
+.wr-fontcolor-155{ color: #79003d; }
+
+.wr-fontcolor-156{ color: #97004b; }
+
+.wr-fontcolor-157{ color: #bb005e; }
+
+.wr-fontcolor-158{ color: #d5006a; }
+
+.wr-fontcolor-159{ color: #ea0075; }
+
+.wr-fontcolor-160{ color: #ff0683; }
+
+.wr-fontcolor-161{ color: #ff2291; }
+
+.wr-fontcolor-162{ color: #ff46a3; }
+
+.wr-fontcolor-163{ color: #ff59ac; }
+
+.wr-fontcolor-164{ color: #ff6fb7; }
+
+.wr-fontcolor-165{ color: #ff80bf; }
+
+.wr-fontcolor-166{ color: #ff95ca; }
+
+.wr-fontcolor-167{ color: #ffaad5; }
+
+.wr-fontcolor-168{ color: #ffc4e1; }
+
+.wr-fontcolor-169{ color: #ffd7eb; }
+
+.wr-fontcolor-170{ color: #ffe1f0; }
+
+.wr-fontcolor-171{ color: #fff2f9; }
+
+.wr-fontcolor-172{ color: #ff80ff; }
+
+.wr-fontcolor-173{ color: #220022; }
+
+.wr-fontcolor-174{ color: #200020; }
+
+.wr-fontcolor-175{ color: #2d002d; }
+
+.wr-fontcolor-176{ color: #3c003c; }
+
+.wr-fontcolor-177{ color: #460046; }
+
+.wr-fontcolor-178{ color: #530053; }
+
+.wr-fontcolor-179{ color: #6f006f; }
+
+.wr-fontcolor-180{ color: #800080; }
+
+.wr-fontcolor-181{ color: #9b009b; }
+
+.wr-fontcolor-182{ color: #bf00bf; }
+
+.wr-fontcolor-183{ color: #d900d9; }
+
+.wr-fontcolor-184{ color: #f000f0; }
+
+.wr-fontcolor-185{ color: #ff15ff; }
+
+.wr-fontcolor-186{ color: #ff33ff; }
+
+.wr-fontcolor-187{ color: #ff4fff; }
+
+.wr-fontcolor-188{ color: #ff6fff; }
+
+.wr-fontcolor-189{ color: #ff8aff; }
+
+.wr-fontcolor-190{ color: #ff9dff; }
+
+.wr-fontcolor-191{ color: #ffb3ff; }
+
+.wr-fontcolor-192{ color: #ffc6ff; }
+
+.wr-fontcolor-193{ color: #ffddff; }
+
+.wr-fontcolor-194{ color: #ff0000; }
+
+.wr-fontcolor-195{ color: #280000; }
+
+.wr-fontcolor-196{ color: #510000; }
+
+.wr-fontcolor-197{ color: #910000; }
+
+.wr-fontcolor-198{ color: #a80000; }
+
+.wr-fontcolor-199{ color: #c40000; }
+
+.wr-fontcolor-200{ color: #ff2020; }
+
+.wr-fontcolor-201{ color: #ff4a4a; }
+
+.wr-fontcolor-202{ color: #ff6666; }
+
+.wr-fontcolor-203{ color: #ff7979; }
+
+.wr-fontcolor-204{ color: #ff9393; }
+
+.wr-fontcolor-205{ color: #ffa8a8; }
+
+.wr-fontcolor-206{ color: #ffc4c4; }
+
+.wr-fontcolor-207{ color: #222200; }
+
+.wr-fontcolor-208{ color: #ffffc4; }
+
+.wr-fontcolor-209{ color: #ffffdf; }
+
+.wr-fontcolor-210{ color: #ffffe8; }
+
+.wr-fontcolor-211{ color: #80ff00; }
+
+.wr-fontcolor-212{ color: #00ff40; }
+
+.wr-fontcolor-213{ color: #33ff66; }
+
+.wr-fontcolor-214{ color: #71ff95; }
+
+.wr-fontcolor-215{ color: #95ffaf; }
+
+.wr-fontcolor-216{ color: #b3ffc6; }
+
+.wr-fontcolor-217{ color: #c1ffd1; }
+
+.wr-fontcolor-218{ color: #d2ffde; }
+
+.wr-fontcolor-219{ color: #d9ffe3; }
+
+.wr-fontcolor-220{ color: #e6ffed; }
+
+.wr-fontcolor-221{ color: #0080c0; }
+
+.wr-fontcolor-222{ color: #00111a; }
+
+.wr-fontcolor-223{ color: #001d2d; }
+
+.wr-fontcolor-224{ color: #002437; }
+
+.wr-fontcolor-225{ color: #002b42; }
+
+.wr-fontcolor-226{ color: #003451; }
+
+.wr-fontcolor-227{ color: #003a59; }
+
+.wr-fontcolor-228{ color: #00466c; }
+
+.wr-fontcolor-229{ color: #005482; }
+
+.wr-fontcolor-230{ color: #006195; }
+
+.wr-fontcolor-231{ color: #006aa4; }
+
+.wr-fontcolor-232{ color: #0077b7; }
+
+.wr-fontcolor-233{ color: #007cbf; }
+
+.wr-fontcolor-234{ color: #008ad5; }
+
+.wr-fontcolor-235{ color: #0095e6; }
+
+.wr-fontcolor-236{ color: #00a3fb; }
+
+.wr-fontcolor-237{ color: #17aeff; }
+
+.wr-fontcolor-238{ color: #35b9ff; }
+
+.wr-fontcolor-239{ color: #48bfff; }
+
+.wr-fontcolor-240{ color: #59c5ff; }
+
+.wr-fontcolor-241{ color: #6acbff; }
+
+.wr-fontcolor-242{ color: #80d2ff; }
+
+.wr-fontcolor-243{ color: #97dbff; }
+
+.wr-fontcolor-244{ color: #aee2ff; }
+
+.wr-fontcolor-245{ color: #c1eaff; }
+
+.wr-fontcolor-246{ color: #ccedff; }
+
+.wr-fontcolor-247{ color: #d9f1ff; }
+
+.wr-fontcolor-248{ color: #e8f7ff; }
+
+.wr-fontcolor-249{ color: #8080c0; }
+
+.wr-fontcolor-250{ color: #15152b; }
+
+.wr-fontcolor-251{ color: #1d1d3d; }
+
+.wr-fontcolor-252{ color: #272752; }
+
+.wr-fontcolor-253{ color: #2f2f62; }
+
+.wr-fontcolor-254{ color: #33336a; }
+
+.wr-fontcolor-255{ color: #393977; }
+
+.wr-fontcolor-256{ color: #3c3c7d; }
+
+.wr-fontcolor-257{ color: #42428a; }
+
+.wr-fontcolor-258{ color: #4a4a9b; }
+
+.wr-fontcolor-259{ color: #5151a8; }
+
+.wr-fontcolor-260{ color: #5b5bb0; }
+
+.wr-fontcolor-261{ color: #8d8dc7; }
+
+.wr-fontcolor-262{ color: #a3a3d1; }
+
+.wr-fontcolor-263{ color: #afafd8; }
+
+.wr-fontcolor-264{ color: #bebee0; }
+
+.wr-fontcolor-265{ color: #cfcfe9; }
+
+.wr-fontcolor-266{ color: #dcdcef; }
+
+.wr-fontcolor-267{ color: #e2e2f1; }
+
+.wr-fontcolor-268{ color: #e8e8f4; }
+
+.wr-fontcolor-269{ color: #eeeef7; }
+
+.wr-fontcolor-270{ color: #ff5eae; }
+
+.wr-fontcolor-271{ color: #ff0080; }
+
+.wr-fontcolor-272{ color: #ff00ff; }
+
+.wr-fontcolor-273{ color: #00ffff; }
+
+.wr-fontcolor-274{ color: #008080; }
+
+.wr-fontcolor-275{ color: #008040; }
+
+.wr-fontcolor-276{ color: #004000; }
+
+.wr-fontcolor-277{ color: #004040; }
+
+.wr-fontcolor-278{ color: #000080; }
+
+.wr-fontcolor-279{ color: #000040; }
+
+.wr-fontcolor-280{ color: #400040; }
+
+.wr-fontcolor-281{ color: #400080; }
+
+.wr-fontcolor-282{ color: #400000; }
+
+.wr-fontcolor-283{ color: #800000; }
+
+.wr-fontcolor-284{ color: #804040; }
+
+.wr-fontcolor-285{ color: #ff8040; }
+
+.wr-fontcolor-286{ color: #ff8000; }
+
+.wr-fontcolor-287{ color: #804000; }
+
+.wr-fontcolor-288{ color: #408080; }
+
+.wr-fontcolor-289{ color: #1f1010; }
+
+.wr-fontcolor-290{ color: #2c1616; }
+
+.wr-fontcolor-291{ color: #371c1c; }
+
+.wr-fontcolor-292{ color: #482424; }
+
+.wr-fontcolor-293{ color: #512828; }
+
+.wr-fontcolor-294{ color: #582c2c; }
+
+.wr-fontcolor-295{ color: #653232; }
+
+.wr-fontcolor-296{ color: #723838; }
+
+.wr-fontcolor-297{ color: #7a3d3d; }
+
+.wr-fontcolor-298{ color: #874343; }
+
+.wr-fontcolor-299{ color: #9d4f4f; }
+
+.wr-fontcolor-300{ color: #ac5b5b; }
+
+.wr-fontcolor-301{ color: #b56c6c; }
+
+.wr-fontcolor-302{ color: #bb7979; }
+
+.wr-fontcolor-303{ color: #c18686; }
+
+.wr-fontcolor-304{ color: #c79292; }
+
+.wr-fontcolor-305{ color: #cc9d9d; }
+
+.wr-fontcolor-306{ color: #d2aaaa; }
+
+.wr-fontcolor-307{ color: #dbbbbb; }
+
+.wr-fontcolor-308{ color: #e0c5c5; }
+
+.wr-fontcolor-309{ color: #e9d6d6; }
+
+.wr-fontcolor-310{ color: #ecdddd; }
+
+.wr-fontcolor-311{ color: #f0e6e6; }
+
+.wr-fontcolor-312{ color: #f3eded; }
+
+.wr-fontcolor-313{ color: #281400; }
+
+.wr-fontcolor-314{ color: #2f1700; }
+
+.wr-fontcolor-315{ color: #402000; }
+
+.wr-fontcolor-316{ color: #4f2700; }
+
+.wr-fontcolor-317{ color: #552b00; }
+
+.wr-fontcolor-318{ color: #623100; }
+
+.wr-fontcolor-319{ color: #6a3500; }
+
+.wr-fontcolor-320{ color: #713800; }
+
+.wr-fontcolor-321{ color: #884400; }
+
+.wr-fontcolor-322{ color: #8c4600; }
+
+.wr-fontcolor-323{ color: #974b00; }
+
+.wr-fontcolor-324{ color: #a65300; }
+
+.wr-fontcolor-325{ color: #b75b00; }
+
+.wr-fontcolor-326{ color: #c16100; }
+
+.wr-fontcolor-327{ color: #ce6700; }
+
+.wr-fontcolor-328{ color: #df7000; }
+
+.wr-fontcolor-329{ color: #ea7500; }
+
+.wr-fontcolor-330{ color: #f97c00; }
+
+.wr-fontcolor-331{ color: #ff8b17; }
+
+.wr-fontcolor-332{ color: #ff9224; }
+
+.wr-fontcolor-333{ color: #ffa346; }
+
+.wr-fontcolor-334{ color: #ffa851; }
+
+.wr-fontcolor-335{ color: #ffad5b; }
+
+.wr-fontcolor-336{ color: #ffb366; }
+
+.wr-fontcolor-337{ color: #ffbc79; }
+
+.wr-fontcolor-338{ color: #ffc58a; }
+
+.wr-fontcolor-339{ color: #ffcd9b; }
+
+.wr-fontcolor-340{ color: #ffd3a8; }
+
+.wr-fontcolor-341{ color: #ffd9b3; }
+
+.wr-fontcolor-342{ color: #ffe1c4; }
+
+.wr-fontcolor-343{ color: #ffe6cc; }
+
+.wr-fontcolor-344{ color: #ffebd7; }
+
+.wr-fontcolor-345{ color: #fff0e1; }
+
+.wr-fontcolor-346{ color: #fff9f2; }
+
+.wr-fontcolor-347{ color: #122425; }
+
+.wr-fontcolor-348{ color: #d7ebec; }
+
+.wr-fontcolor-349{ color: #d3efdc; }
+
+.wr-fontcolor-350{ color: #d6f2d0; }
+
+.wr-fontcolor-351{ color: #e6e3dd; }
+
+.wr-fontcolor-352{ color: #e9e6e0; }
+
+.wr-fontcolor-353{ color: #dfdbd2; }
+
+.wr-fontcolor-354{ color: #d8d2c7; }
+
+.wr-fontcolor-355{ color: #d2cbbf; }
+
+.wr-fontcolor-356{ color: #cac2b5; }
+
+.wr-fontcolor-357{ color: #c9c1b4; }
+
+.wr-fontcolor-358{ color: #c6beb0; }
+
+.wr-fontcolor-359{ color: #bbb1a2; }
+
+.wr-fontcolor-360{ color: #b6ab9c; }
+
+.wr-fontcolor-361{ color: #b3a797; }
+
+.wr-fontcolor-362{ color: #aba08f; }
+
+.wr-fontcolor-363{ color: #9f9380; }
+
+.wr-fontcolor-364{ color: #978a75; }
+
+.wr-fontcolor-365{ color: #948670; }
+
+.wr-fontcolor-366{ color: #8b7c67; }
+
+.wr-fontcolor-367{ color: #7c6f5c; }
+
+.wr-fontcolor-368{ color: #776a57; }
+
+.wr-fontcolor-369{ color: #6c614f; }
+
+.wr-fontcolor-370{ color: #625848; }
+
+.wr-fontcolor-371{ color: #554d3e; }
+
+.wr-fontcolor-372{ color: #4b4436; }
+
+.wr-fontcolor-373{ color: #453f32; }
+
+.wr-fontcolor-374{ color: #39342b; }
+
+.wr-fontcolor-375{ color: #2b2720; }
+
+.wr-fontcolor-376{ color: #28241e; }
+
+.wr-fontcolor-377{ color: #1f1c16; }
+
+.wr-fontcolor-378{ color: #e2dbe3; }
+
+.wr-fontcolor-379{ color: #c8bfc7; }
+
+.wr-fontcolor-380{ color: #bbb0ba; }
+
+.wr-fontcolor-381{ color: #ada0ac; }
+
+.wr-fontcolor-382{ color: #a899a7; }
+
+.wr-fontcolor-383{ color: #9d8c9c; }
+
+.wr-fontcolor-384{ color: #948193; }
+
+.wr-fontcolor-385{ color: #887387; }
+
+.wr-fontcolor-386{ color: #796678; }
+
+.wr-fontcolor-387{ color: #6b5a6a; }
+
+.wr-fontcolor-388{ color: #645363; }
+
+.wr-fontcolor-389{ color: #564755; }
+
+.wr-fontcolor-390{ color: #4a3e49; }
+
+.wr-fontcolor-391{ color: #3d323c; }
+
+.wr-fontcolor-392{ color: #322931; }
+
+.wr-fontcolor-393{ color: #121d17; }
+
+.wr-fontcolor-394{ color: #2c4537; }
+
+.wr-fontcolor-395{ color: #3a3f32; }
+
+.wr-fontcolor-396{ color: #2e3227; }
+
+.wr-fontcolor-397{ color: #282d22; }
+
+.wr-fontcolor-398{ color: #25291f; }
+
+.wr-fontcolor-399{ color: #1c1e17; }
+
+.wr-fontcolor-400{ color: #4e5340; }
+
+.wr-fontcolor-401{ color: #5c634b; }
+
+.wr-fontcolor-402{ color: #677054; }
+
+.wr-fontcolor-403{ color: #768161; }
+
+.wr-fontcolor-404{ color: #808b69; }
+
+.wr-fontcolor-405{ color: #899472; }
+
+.wr-fontcolor-406{ color: #9aa486; }
+
+.wr-fontcolor-407{ color: #a0a98d; }
+
+.wr-fontcolor-408{ color: #aeb69e; }
+
+.wr-fontcolor-409{ color: #b7bda8; }
+
+.wr-fontcolor-410{ color: #c5c9b8; }
+
+.wr-fontcolor-411{ color: #cdd0c1; }
+
+.wr-fontcolor-412{ color: #d8dacd; }
+
+.wr-fontcolor-413{ color: #e0e1d7; }
+
+.wr-fontcolor-414{ color: #e4e6dd; }
+
+.wr-fontcolor-415{ color: #edeee8; }
+
+.wr-fontcolor-416{ color: #eef3ed; }
+
+.wr-fontcolor-417{ color: #dbe6d9; }
+
+.wr-fontcolor-418{ color: #e3ece1; }
+
+.wr-fontcolor-419{ color: #d2e1d0; }
+
+.wr-fontcolor-420{ color: #cbdcc9; }
+
+.wr-fontcolor-421{ color: #c0d6be; }
+
+.wr-fontcolor-422{ color: #b8d1b6; }
+
+.wr-fontcolor-423{ color: #b4cdb1; }
+
+.wr-fontcolor-424{ color: #aac7a7; }
+
+.wr-fontcolor-425{ color: #9abc96; }
+
+.wr-fontcolor-426{ color: #98ba94; }
+
+.wr-fontcolor-427{ color: #93b78e; }
+
+.wr-fontcolor-428{ color: #8eb489; }
+
+.wr-fontcolor-429{ color: #8ab185; }
+
+.wr-fontcolor-430{ color: #88af83; }
+
+.wr-fontcolor-431{ color: #84ac7d; }
+
+.wr-fontcolor-432{ color: #7ea877; }
+
+.wr-fontcolor-433{ color: #709e67; }
+
+.wr-fontcolor-434{ color: #6c9a63; }
+
+.wr-fontcolor-435{ color: #68945f; }
+
+.wr-fontcolor-436{ color: #638d5a; }
+
+.wr-fontcolor-437{ color: #608857; }
+
+.wr-fontcolor-438{ color: #5b8253; }
+
+.wr-fontcolor-439{ color: #54774d; }
+
+.wr-fontcolor-440{ color: #4f6f48; }
+
+.wr-fontcolor-441{ color: #496743; }
+
+.wr-fontcolor-442{ color: #44603e; }
+
+.wr-fontcolor-443{ color: #405a3a; }
+
+.wr-fontcolor-444{ color: #3d5537; }
+
+.wr-fontcolor-445{ color: #394f33; }
+
+.wr-fontcolor-446{ color: #374d31; }
+
+.wr-fontcolor-447{ color: #34482f; }
+
+.wr-fontcolor-448{ color: #31442d; }
+
+.wr-fontcolor-449{ color: #2c3d27; }
+
+.wr-fontcolor-450{ color: #243320; }
+
+.wr-fontcolor-451{ color: #23321f; }
+
+.wr-fontcolor-452{ color: #202e1d; }
+
+.wr-fontcolor-453{ color: #1c281a; }
+
+.wr-fontcolor-454{ color: #172015; }
+
+.wr-fontcolor-455{ color: #111810; }
+
+.wr-fontcolor-456{ color: #0f140e; }
+
+.wr-fontcolor-457{ color: #ebd6d7; }
+
+.wr-fontcolor-458{ color: #e7dae7; }
+
+.wr-fontcolor-459{ color: #f3edf3; }
+
+.wr-fontcolor-460{ color: #dcc9dc; }
+
+.wr-fontcolor-461{ color: #d6c0d6; }
+
+.wr-fontcolor-462{ color: #d1bad1; }
+
+.wr-fontcolor-463{ color: #ccb3cc; }
+
+.wr-fontcolor-464{ color: #c9adc9; }
+
+.wr-fontcolor-465{ color: #c1a2c1; }
+
+.wr-fontcolor-466{ color: #bd9dbd; }
+
+.wr-fontcolor-467{ color: #b793b7; }
+
+.wr-fontcolor-468{ color: #af87af; }
+
+.wr-fontcolor-469{ color: #a87ba8; }
+
+.wr-fontcolor-470{ color: #a475a4; }
+
+.wr-fontcolor-471{ color: #a070a0; }
+
+.wr-fontcolor-472{ color: #9b6a9b; }
+
+.wr-fontcolor-473{ color: #956495; }
+
+.wr-fontcolor-474{ color: #8a5e8a; }
+
+.wr-fontcolor-475{ color: #825782; }
+
+.wr-fontcolor-476{ color: #7b537b; }
+
+.wr-fontcolor-477{ color: #734d73; }
+
+.wr-fontcolor-478{ color: #654365; }
+
+.wr-fontcolor-479{ color: #593c59; }
+
+.wr-fontcolor-480{ color: #4d334d; }
+
+.wr-fontcolor-481{ color: #473047; }
+
+.wr-fontcolor-482{ color: #422d42; }
+
+.wr-fontcolor-483{ color: #3d293d; }
+
+.wr-fontcolor-484{ color: #382538; }
+
+.wr-fontcolor-485{ color: #332233; }
+
+.wr-fontcolor-486{ color: #2d1e2d; }
+
+.wr-fontcolor-487{ color: #271b27; }
+
+.wr-fontcolor-488{ color: #111e31; }
+
+.wr-fontcolor-489{ color: #0f1b2d; }
+
+.wr-fontcolor-490{ color: #0e1829; }
+
+.wr-fontcolor-491{ color: #0d1626; }
+
+.wr-fontcolor-492{ color: #0b1220; }
+
+.wr-fontcolor-493{ color: #172542; }
+
+.wr-fontcolor-494{ color: #1c2d4f; }
+
+.wr-fontcolor-495{ color: #223660; }
+
+.wr-fontcolor-496{ color: #273f70; }
+
+.wr-fontcolor-497{ color: #2f4b88; }
+
+.wr-fontcolor-498{ color: #355699; }
+
+.wr-fontcolor-499{ color: #3a5fab; }
+
+.wr-fontcolor-500{ color: #4068bd; }
+
+.wr-fontcolor-501{ color: #4d73c4; }
+
+.wr-fontcolor-502{ color: #6385cb; }
+
+.wr-fontcolor-503{ color: #7694d1; }
+
+.wr-fontcolor-504{ color: #89a3d8; }
+
+.wr-fontcolor-505{ color: #94abdc; }
+
+.wr-fontcolor-506{ color: #a6b9e1; }
+
+.wr-fontcolor-507{ color: #b6c6e7; }
+
+.wr-fontcolor-508{ color: #c2cfeb; }
+
+.wr-fontcolor-509{ color: #d3ddf1; }
+
+.wr-fontcolor-510{ color: #dde4f4; }
+
+.wr-fontcolor-511{ color: #ecf0f9; }
+
+.wr-fontcolor-512{ color: #d8ebf3; }
+
+.wr-fontcolor-513{ color: #cae3ee; }
+
+.wr-fontcolor-514{ color: #c2dfeb; }
+
+.wr-fontcolor-515{ color: #b7d9e8; }
+
+.wr-fontcolor-516{ color: #add3e4; }
+
+.wr-fontcolor-517{ color: #9dcbdf; }
+
+.wr-fontcolor-518{ color: #92c6dc; }
+
+.wr-fontcolor-519{ color: #85bfd8; }
+
+.wr-fontcolor-520{ color: #7cbbd6; }
+
+.wr-fontcolor-521{ color: #6db4d1; }
+
+.wr-fontcolor-522{ color: #64aece; }
+
+.wr-fontcolor-523{ color: #58a9cb; }
+
+.wr-fontcolor-524{ color: #50a5c9; }
+
+.wr-fontcolor-525{ color: #4ea4c9; }
+
+.wr-fontcolor-526{ color: #429ec6; }
+
+.wr-fontcolor-527{ color: #3997bf; }
+
+.wr-fontcolor-528{ color: #358eb5; }
+
+.wr-fontcolor-529{ color: #3389ae; }
+
+.wr-fontcolor-530{ color: #2f7c9d; }
+
+.wr-fontcolor-531{ color: #2d7695; }
+
+.wr-fontcolor-532{ color: #296c89; }
+
+.wr-fontcolor-533{ color: #276681; }
+
+.wr-fontcolor-534{ color: #246079; }
+
+.wr-fontcolor-535{ color: #1f5369; }
+
+.wr-fontcolor-536{ color: #1a4557; }
+
+.wr-fontcolor-537{ color: #173d4d; }
+
+.wr-fontcolor-538{ color: #153746; }
+
+.wr-fontcolor-539{ color: #133240; }
+
+.wr-fontcolor-540{ color: #112e39; }
+
+.wr-fontcolor-541{ color: #102c36; }
+
+.wr-fontcolor-542{ color: #0e2630; }
+
+.wr-fontcolor-543{ color: #0d222b; }
+
+.wr-fontcolor-544{ color: #0b1d24; }
+
+.wr-fontcolor-545{ color: #0a1a1f; }
+
+.wr-fontcolor-546{ color: #46c6c6; }
+
+.wr-fontcolor-547{ color: #d1f1f1; }
+
+.wr-fontcolor-548{ color: #b3758f; }
+
+.wr-fontcolor-549{ color: #85a38f; }
+
+.wr-fontcolor-550{ color: #577360; }
+
+.wr-fontcolor-551{ color: #754eab; }
+
+.wr-fontcolor-552{ color: #b84176; }
+
+.wr-fontcolor-553{ color: #8a3159; }
+
+.wr-fontcolor-554{ color: #fe7e92; }
+
+.wr-fontcolor-555{ color: #d58cf0; }
+
+.wr-fontcolor-556{ color: #c054e9; }
+
+.wr-fontcolor-557{ color: #ad21e2; }
+
+.wr-fontcolor-558{ color: #8d18ba; }
+
+.wr-fontcolor-559{ color: #8116a9; }
+
+.wr-fontcolor-560{ color: #6b128d; }
+
+.wr-fontcolor-561{ color: #5c0f79; }
+
+.wr-fontcolor-562{ color: #510d6a; }
+
+.wr-fontcolor-563{ color: #490c61; }
+
+.wr-fontcolor-564{ color: #420b57; }
+
+.wr-fontcolor-565{ color: #3e0b51; }
+
+.wr-fontcolor-566{ color: #310940; }
+
+.wr-fontcolor-567{ color: #290736; }
+
+.wr-fontcolor-568{ color: #f8ebfc; }
+
+.wr-fontcolor-569{ color: #f5e1fb; }
+
+.wr-fontcolor-570{ color: #e9bbf7; }
+
+.wr-fontcolor-571{ color: #f3dbfb; }
+
+.wr-fontcolor-572{ color: #d787f1; }
+
+.wr-fontcolor-573{ color: #cd6aee; }
+
+.wr-fontcolor-574{ color: #c85bec; }
+
+.wr-fontcolor-575{ color: #c24aea; }
+
+.wr-fontcolor-576{ color: #bc37e8; }
+
+.wr-fontcolor-577{ color: #b728e6; }
+
+.wr-fontcolor-578{ color: #ab1adb; }
+
+.wr-fontcolor-579{ color: #5835bf; }
+
+.wr-fontcolor-580{ color: #817774; }
+
+.wr-fontcolor-581{ color: #dbc5bf; }
+
+.wr-fontcolor-582{ color: #d0b5ac; }
+
+.wr-fontcolor-583{ color: #c9aba0; }
+
+.wr-fontcolor-584{ color: #c09e92; }
+
+.wr-fontcolor-585{ color: #b99386; }
+
+.wr-fontcolor-586{ color: #b3897b; }
+
+.wr-fontcolor-587{ color: #aa7a6a; }
+
+.wr-fontcolor-588{ color: #a26d5b; }
+
+.wr-fontcolor-589{ color: #946454; }
+
+.wr-fontcolor-590{ color: #84594a; }
+
+.wr-fontcolor-591{ color: #7b5244; }
+
+.wr-fontcolor-592{ color: #644337; }
+
+.wr-fontcolor-593{ color: #51362d; }
+
+.wr-fontcolor-594{ color: #412b23; }
+
+.wr-fontcolor-595{ color: #2f201a; }
+
+.wr-fontcolor-596{ color: #392720; }
+
+.wr-fontcolor-597{ color: #2f2922; }
+
+.wr-fontcolor-598{ color: #2f2e22; }
+
+.wr-fontcolor-599{ color: #272e23; }
+
+.wr-fontcolor-600{ color: #252b2c; }
+
+.wr-fontcolor-601{ color: #353f40; }
+
+.wr-fontcolor-602{ color: #404b4d; }
+
+.wr-fontcolor-603{ color: #232b2c; }
+
+.wr-fontcolor-604{ color: #c1cdce; }
+
+.wr-fontcolor-605{ color: #9fb1b3; }
+
+.wr-fontcolor-606{ color: #738d91; }
+
+.wr-fontcolor-607{ color: #dee3e4; }
+
+.wr-fontcolor-608{ color: #caf9eb; }
+
+.wr-fontcolor-609{ color: #ecf7cc; }
+
+.wr-fontcolor-610{ color: #def1a5; }
+
+.wr-fontcolor-611{ color: #e9f5c0; }
+
+.wr-fontcolor-612{ color: #d9ed92; }
+
+.wr-fontcolor-613{ color: #d1ea7b; }
+
+.wr-fontcolor-614{ color: #cce86c; }
+
+.wr-fontcolor-615{ color: #d7ed89; }
+
+.wr-fontcolor-616{ color: #dff1a3; }
+
+.wr-fontcolor-617{ color: #e4f3b1; }
+
+.wr-fontcolor-618{ color: #ebf5c5; }
+
+.wr-fontcolor-619{ color: #f0f8d3; }
+
+.wr-fontcolor-620{ color: #f5fbe1; }
+
+.wr-fontcolor-621{ color: #f8fce9; }
+
+.wr-fontcolor-622{ color: #d7ed7e; }
+
+.wr-fontcolor-623{ color: #d2eb72; }
+
+.wr-fontcolor-624{ color: #c8e651; }
+
+.wr-fontcolor-625{ color: #bde12d; }
+
+.wr-fontcolor-626{ color: #b9df20; }
+
+.wr-fontcolor-627{ color: #a8cb1d; }
+
+.wr-fontcolor-628{ color: #9cbc1b; }
+
+.wr-fontcolor-629{ color: #8fad18; }
+
+.wr-fontcolor-630{ color: #85a016; }
+
+.wr-fontcolor-631{ color: #7a9414; }
+
+.wr-fontcolor-632{ color: #728912; }
+
+.wr-fontcolor-633{ color: #657a10; }
+
+.wr-fontcolor-634{ color: #586b0e; }
+
+.wr-fontcolor-635{ color: #4f600d; }
+
+.wr-fontcolor-636{ color: #414f0b; }
+
+.wr-fontcolor-637{ color: #303909; }
+
+.wr-fontcolor-638{ color: #2d3509; }
+
+.wr-fontcolor-639{ color: #212606; }
+
+.wr-fontcolor-640{ color: #1b1f05; }
+
+.wr-fontcolor-641{ color: #b6d744; }
+
+.wr-fontcolor-642{ color: #e6f1be; }
+
+.wr-fontcolor-643{ color: #a6c92c; }
+
+.wr-fontcolor-644{ color: #e1c813; }
+
+.wr-fontcolor-645{ color: #eed839; }
+
+.wr-fontcolor-646{ color: #f0dd55; }
+
+.wr-fontcolor-647{ color: #f2e16a; }
+
+.wr-fontcolor-648{ color: #f4e88c; }
+
+.wr-fontcolor-649{ color: #f7eca4; }
+
+.wr-fontcolor-650{ color: #f9f0b5; }
+
+.wr-fontcolor-651{ color: #fbf4c8; }
+
+.wr-fontcolor-652{ color: #fcf8d6; }
+
+.wr-fontcolor-653{ color: #fdfbe3; }
+
+.wr-fontcolor-654{ color: #dfdb31; }
+
+.wr-fontcolor-655{ color: #d9b937; }
+
+.wr-fontcolor-656{ color: #d29e3e; }
+
+.wr-fontcolor-657{ color: #d07d40; }
+
+.wr-fontcolor-658{ color: #cc8b44; }
+
+.wr-fontcolor-659{ color: #c9a247; }
+
+.wr-fontcolor-660{ color: #e6d3aa; }
+
+.wr-fontcolor-661{ color: #d6e1ae; }
+
+.wr-fontcolor-662{ color: #d5e7a9; }
+
+.wr-fontcolor-663{ color: #e9e6a7; }
+
+.wr-fontcolor-664{ color: #c4dab6; }
+
+.wr-fontcolor-665{ color: #24262f; }
+
+.wr-fontcolor-666{ color: #493a37; }
+
+.wr-fontcolor-667{ color: #473123; }
+
+.wr-fontcolor-668{ color: #39200a; }
+
+.wr-fontcolor-669{ color: #43353b; }
+
+.wr-fontcolor-670{ color: #95565e; }
+
+.wr-fontcolor-671{ color: #2a291d; }
+
+.wr-fontcolor-672{ color: #b03741; }
+
+.wr-fontcolor-673{ color: #bec39a; }
+
+.wr-fontcolor-674{ color: #aa5b50; }
+
+.wr-fontcolor-675{ color: #be3f5a; }
+
+.wr-fontcolor-676{ color: #e0e3d8; }
+
+.wr-fontcolor-677{ color: #951b10; }
+
+.wr-fontcolor-678{ color: #5d5047; }
+
+.wr-fontcolor-679{ color: #3f3e3f; }
+
+.wr-fontcolor-680{ color: #3e3129; }
+
+.wr-fontcolor-681{ color: #2f2a26; }
+
+.wr-fontcolor-682{ color: #464c42; }
+
+.wr-fontcolor-683{ color: #f9b747; }
+
+.wr-fontcolor-684{ color: #02386d; }
+
+.wr-fontcolor-685{ color: #f6a92c; }
+
+.wr-fontcolor-686{ color: #f1db70; }
+
+.wr-fontcolor-687{ color: #ed7f20; }
+
+.wr-fontcolor-688{ color: #d57c26; }
+
+.wr-fontcolor-689{ color: #fcfae9; }
+
+.wr-fontcolor-690{ color: #fde289; }
+
+.wr-fontcolor-691{ color: #f8ab2c; }
+
+.wr-fontcolor-692{ color: #b9ae97; }
+
+.wr-fontcolor-693{ color: #79734b; }
+
+.wr-fontcolor-694{ color: #3c362d; }
+
+.wr-fontcolor-695{ color: #373632; }
+
+.wr-fontcolor-696{ color: #bdb17f; }
+
+.wr-fontcolor-697{ color: #504642; }
+
+.wr-fontcolor-698{ color: #6f6e5d; }
+
+.wr-fontcolor-699{ color: #8e8369; }
+
+.wr-fontcolor-700{ color: #698f62; }
+
+.wr-fontcolor-701{ color: #a9bc85; }
+
+.wr-fontcolor-702{ color: #ae9e8d; }
+
+.wr-fontcolor-703{ color: #beb9a3; }
+
+.wr-fontcolor-704{ color: #d8d5c7; }
+
+.wr-fontcolor-705{ color: #730288; }
+
+.wr-fontcolor-706{ color: #e45be6; }
+
+.wr-fontcolor-707{ color: #011957; }
+
+.wr-fontcolor-708{ color: #ff6600; }
+
+.wr-fontcolor-709{ color: #e04537; }
+
+.wr-fontcolor-710{ color: #ee693a; }
+
+.wr-fontcolor-711{ color: #000099; }
+
+.wr-fontcolor-712{ color: #4d0e09; }
+
+.wr-fontcolor-713{ color: #5b2217; }
+
+.wr-fontcolor-714{ color: #e7006b; }
+
+.wr-fontcolor-715{ color: #ffd6b5; }
+
+.wr-fontcolor-716{ color: #a5004a; }
+
+.wr-fontcolor-717{ color: #313541; }
+
+.wr-fontcolor-718{ color: #fdd8c8; }
+
+.wr-fontcolor-719{ color: #fee4da; }
+
+.wr-fontcolor-720{ color: #fdcdbb; }
+
+.wr-fontcolor-721{ color: #1d0e54; }
+
+.wr-fontcolor-722{ color: #9d0408; }
+
+.wr-fontcolor-723{ color: #ffe1c9; }
+
+.wr-fontcolor-724{ color: #f1cab1; }
+
+.wr-fontcolor-725{ color: #a76e4b; }
+
+.wr-fontcolor-726{ color: #cf4f01; }
+
+.wr-fontcolor-727{ color: #3f5133; }
+
+.wr-fontcolor-728{ color: #678201; }
+
+.wr-fontcolor-729{ color: #ff9e3b; }
+
+.wr-fontcolor-730{ color: #809867; }
+
+.wr-fontcolor-731{ color: #89ae65; }
+
+.wr-fontcolor-732{ color: #77aa49; }
+
+.wr-fontcolor-733{ color: #8bc98b; }
+
+.wr-fontcolor-734{ color: #2c6544; }
+
+.wr-fontcolor-735{ color: #e2ebe2; }
+
+.wr-fontcolor-736{ color: #b4bdb5; }
+
+.wr-fontcolor-737{ color: #1c3403; }
+
+.wr-fontcolor-738{ color: #29563d; }
+
+.wr-fontcolor-739{ color: #97dda1; }
+
+.wr-fontcolor-740{ color: #a4ca5f; }
+
+.wr-fontcolor-741{ color: #90b292; }
+
+.wr-fontcolor-742{ color: #333333; }
+
+.wr-fontcolor-743{ color: #121212; }
+
+.wr-fontcolor-744{ color: #08200c; }
+
+.wr-fontcolor-745{ color: #bfd2a4; }
+
+.wr-fontcolor-746{ color: #bbd0be; }
+
+.wr-fontcolor-747{ color: #1f2c21; }
+
+.wr-fontcolor-748{ color: #14171b; }
+
+.wr-fontcolor-749{ color: #dbe6dd; }
+
+.wr-fontcolor-750{ color: #ffa54f; }
+
+.wr-fontcolor-751{ color: #ee9a49; }
+
+.wr-fontcolor-752{ color: #8b5a2b; }
+
+.wr-fontcolor-753{ color: #ff7f24; }
+
+.wr-fontcolor-754{ color: #ee7621; }
+
+.wr-fontcolor-755{ color: #cd661d; }
+
+.wr-fontcolor-756{ color: #8b4513; }
+
+.wr-fontcolor-757{ color: #ff3030; }
+
+.wr-fontcolor-758{ color: #ee2c2c; }
+
+.wr-fontcolor-759{ color: #cd2626; }
+
+.wr-fontcolor-760{ color: #8b1a1a; }
+
+.wr-fontcolor-761{ color: #ff4040; }
+
+.wr-fontcolor-762{ color: #ee3b3b; }
+
+.wr-fontcolor-763{ color: #cd3333; }
+
+.wr-fontcolor-764{ color: #8b2323; }
+
+.wr-fontcolor-765{ color: #ff8c69; }
+
+.wr-fontcolor-766{ color: #ee8262; }
+
+.wr-fontcolor-767{ color: #cd7054; }
+
+.wr-fontcolor-768{ color: #8b4c39; }
+
+.wr-fontcolor-769{ color: #ffa07a; }
+
+.wr-fontcolor-770{ color: #ee9572; }
+
+.wr-fontcolor-771{ color: #cd8162; }
+
+.wr-fontcolor-772{ color: #8b5742; }
+
+.wr-fontcolor-773{ color: #ffa500; }
+
+.wr-fontcolor-774{ color: #ee9a00; }
+
+.wr-fontcolor-775{ color: #cd8500; }
+
+.wr-fontcolor-776{ color: #8b5a00; }
+
+.wr-fontcolor-777{ color: #ff7f00; }
+
+.wr-fontcolor-778{ color: #ee7600; }
+
+.wr-fontcolor-779{ color: #cd6600; }
+
+.wr-fontcolor-780{ color: #8b4500; }
+
+.wr-fontcolor-781{ color: #ff7256; }
+
+.wr-fontcolor-782{ color: #ee6a50; }
+
+.wr-fontcolor-783{ color: #cd5b45; }
+
+.wr-fontcolor-784{ color: #8b3e2f; }
+
+.wr-fontcolor-785{ color: #ff6347; }
+
+.wr-fontcolor-786{ color: #ee5c42; }
+
+.wr-fontcolor-787{ color: #cd4f39; }
+
+.wr-fontcolor-788{ color: #8b3626; }
+
+.wr-fontcolor-789{ color: #ff4500; }
+
+.wr-fontcolor-790{ color: #ee4000; }
+
+.wr-fontcolor-791{ color: #cd3700; }
+
+.wr-fontcolor-792{ color: #8b2500; }
+
+.wr-fontcolor-793{ color: #ee0000; }
+
+.wr-fontcolor-794{ color: #cd0000; }
+
+.wr-fontcolor-795{ color: #8b0000; }
+
+.wr-fontcolor-796{ color: #ff1493; }
+
+.wr-fontcolor-797{ color: #ee1289; }
+
+.wr-fontcolor-798{ color: #cd1076; }
+
+.wr-fontcolor-799{ color: #8b0a50; }
+
+.wr-fontcolor-800{ color: #ff6eb4; }
+
+.wr-fontcolor-801{ color: #ee6aa7; }
+
+.wr-fontcolor-802{ color: #cd6090; }
+
+.wr-fontcolor-803{ color: #8b3a62; }
+
+.wr-fontcolor-804{ color: #ffb5c5; }
+
+.wr-fontcolor-805{ color: #eea9b8; }
+
+.wr-fontcolor-806{ color: #cd919e; }
+
+.wr-fontcolor-807{ color: #8b636c; }
+
+.wr-fontcolor-808{ color: #ffaeb9; }
+
+.wr-fontcolor-809{ color: #eea2ad; }
+
+.wr-fontcolor-810{ color: #cd8c95; }
+
+.wr-fontcolor-811{ color: #8b5f65; }
+
+.wr-fontcolor-812{ color: #cd3278; }
+
+.wr-fontcolor-813{ color: #8b2252; }
+
+.wr-fontcolor-814{ color: #ee00ee; }
+
+.wr-fontcolor-815{ color: #cd00cd; }
+
+.wr-fontcolor-816{ color: #8b008b; }
+
+.wr-fontcolor-817{ color: #8b668b; }
+
+.wr-fontcolor-818{ color: #e066ff; }
+
+.wr-fontcolor-819{ color: #d15fee; }
+
+.wr-fontcolor-820{ color: #b452cd; }
+
+.wr-fontcolor-821{ color: #7a378b; }
+
+.wr-fontcolor-822{ color: #bf3eff; }
+
+.wr-fontcolor-823{ color: #b23aee; }
+
+.wr-fontcolor-824{ color: #9a32cd; }
+
+.wr-fontcolor-825{ color: #68228b; }
+
+.wr-fontcolor-826{ color: #9b30ff; }
+
+.wr-fontcolor-827{ color: #912cee; }
+
+.wr-fontcolor-828{ color: #7d26cd; }
+
+.wr-fontcolor-829{ color: #551a8b; }
+
+.wr-fontcolor-830{ color: #ab82ff; }
+
+.wr-fontcolor-831{ color: #9f79ee; }
+
+.wr-fontcolor-832{ color: #8968cd; }
+
+.wr-fontcolor-833{ color: #5d478b; }
+
+.wr-fontcolor-834{ color: #ffd700; }
+
+.wr-fontcolor-835{ color: #b8860b; }
+
+.wr-fontcolor-836{ color: #6b8e23; }
+
+.wr-fontcolor-837{ color: #007bff; }
+
+.wr-fontcolor-838{ color: #6c757d; }
+
+.wr-fontcolor-839{ color: #28a745; }
+
+.wr-fontcolor-840{ color: #dc3545; }
+
+.wr-fontcolor-841{ color: #ffc107; }
+
+.wr-fontcolor-842{ color: #17a2b8; }
+
+.wr-fontcolor-843{ color: #f8f9fa; }
+
+.wr-fontcolor-844{ color: #343a40; }
+
+.wr-fontcolor-845{ color: #563d7c; }
+
+.wr-fontcolor-846{ color: #151f20; }
+
+.wr-fontcolor-847{ color: #172228; }
+
+.wr-fontcolor-848{ color: #1a1a27; }
+
+.wr-fontcolor-849{ color: #00fa9a; }
+
+.wr-fontcolor-850{ color: #00ff7f; }
+
+.wr-fontcolor-851{ color: #98fb98; }
+
+.wr-fontcolor-852{  background: #90ee90; }
+
+.wr-fontcolor-853{ color: #8fbc8f; }
+
+.wr-fontcolor-854{ color: #3cb371; }
+
+.wr-fontcolor-855{ color: #2e8b57; }
+
+.wr-fontcolor-856{ color: #006400; }
+
+.wr-fontcolor-857{ color: #008000; }
+
+.wr-fontcolor-858{ color: #228b22; }
+
+.wr-fontcolor-859{ color: #32cd32; }
+
+.wr-fontcolor-860{ color: #00ff00; }
+
+.wr-fontcolor-861{ color: #7cfc00; }
+
+.wr-fontcolor-862{ color: #7fff00; }
+
+.wr-fontcolor-863{ color: #adff2f; }
+
+.wr-fontcolor-864{ color: #9acd32; }
+
+.wr-fontcolor-865{ color: #556b2f; }
+
+.wr-fontcolor-866{ color: #808000; }
+
+.wr-fontcolor-867{ color: #bdb76b; }
+
+.wr-fontcolor-868{ color: #daa520; }
+
+.wr-fontcolor-869{ color: #a0522d; }
+
+.wr-fontcolor-870{ color: #bc8f8f; }
+
+.wr-fontcolor-871{ color: #cd853f; }
+
+.wr-fontcolor-872{ color: #d2691e; }
+
+.wr-fontcolor-873{ color: #f4a460; }
+
+.wr-fontcolor-874{ color: #ffdead; }
+
+.wr-fontcolor-875{ color: #f5deb3; }
+
+.wr-fontcolor-876{ color: #deb887; }
+
+.wr-fontcolor-877{ color: #d2b48c; }
+
+.wr-fontcolor-878{ color: #f5f5dc; }
+
+.wr-fontcolor-879{ color: #fdf5e6; }
+
+.wr-fontcolor-880{ color: #fffff0; }
+
+.wr-fontcolor-881{ color: #faf0e6; }
+
+.wr-fontcolor-882{ color: #fff8dc; }
+
+.wr-fontcolor-883{ color: #faebd7; }
+
+.wr-fontcolor-884{ color: #ffebcd; }
+
+.wr-fontcolor-885{ color: #ffe4c4; }
+
+.wr-fontcolor-886{ color: #ffffe0; }
+
+.wr-fontcolor-887{ color: #fffacd; }
+
+.wr-fontcolor-888{ color: #fafad2; }
+
+.wr-fontcolor-889{ color: #ffefd5; }
+
+.wr-fontcolor-890{ color: #ffdab9; }
+
+.wr-fontcolor-891{ color: #ffe4b5; }
+
+.wr-fontcolor-892{ color: #eee8aa; }
+
+.wr-fontcolor-893{ color: #ffe4e1; }
+
+.wr-fontcolor-894{ color: #fff0f5; }
+
+.wr-fontcolor-895{ color: #e6e6fa; }
+
+.wr-fontcolor-896{ color: #d8bfd8; }
+
+.wr-fontcolor-897{ color: #f0ffff; }
+
+.wr-fontcolor-898{ color: #e0ffff; }
+
+.wr-fontcolor-899{ color: #b0e0e6; }
+
+.wr-fontcolor-900{ color: #f0fff0; }
+
+.wr-fontcolor-901{ color: #f5fffa; }
+
+.wr-fontcolor-902{ color: #f0f8ff; }
+
+.wr-fontcolor-903{ color: #f8f8ff; }
+
+.wr-fontcolor-904{ color: #fffafa; }
+
+.wr-fontcolor-905{ color: #fff5ee; }
+
+.wr-fontcolor-906{ color: #fffaf0; }
+
+.wr-fontcolor-907{ color: #f5f5f5; }
+
+.wr-fontcolor-908{ color: #dcdcdc; }
+
+.wr-fontcolor-909{ color: #2f4f4f; }
+
+.wr-fontcolor-910{ color: #bebebe; }
+
+.wr-fontcolor-911{ color: #d3d3d3; }
+
+.wr-fontcolor-912{ color: #191970; }
+
+.wr-fontcolor-913{ color: #6495ed; }
+
+.wr-fontcolor-914{ color: #483d8b; }
+
+.wr-fontcolor-915{ color: #6a5acd; }
+
+.wr-fontcolor-916{ color: #7b68ee; }
+
+.wr-fontcolor-917{ color: #8470ff; }
+
+.wr-fontcolor-918{ color: #0000cd; }
+
+.wr-fontcolor-919{ color: #4169e1; }
+
+.wr-fontcolor-920{ color: #0000ff; }
+
+.wr-fontcolor-921{ color: #1e90ff; }
+
+.wr-fontcolor-922{ color: #00bfff; }
+
+.wr-fontcolor-923{ color: #87ceeb; }
+
+.wr-fontcolor-924{ color: #87cefa; }
+
+.wr-fontcolor-925{ color: #4682b4; }
+
+.wr-fontcolor-926{ color: #b0c4de; }
+
+.wr-fontcolor-927{ color: #add8e6; }
+
+.wr-fontcolor-928{ color: #afeeee; }
+
+.wr-fontcolor-929{ color: #00ced1; }
+
+.wr-fontcolor-930{ color: #48d1cc; }
+
+.wr-fontcolor-931{ color: #40e0d0; }
+
+.wr-fontcolor-932{ color: #5f9ea0; }
+
+.wr-fontcolor-933{ color: #66cdaa; }
+
+.wr-fontcolor-934{ color: #7fffd4; }
+
+.wr-fontcolor-935{ color: #20b2aa; }
+
+.wr-fontcolor-936{ color: #ffff00; }
+
+.wr-fontcolor-937{ color: #eedd82; }
+
+.wr-fontcolor-938{ color: #cd5c5c; }
+
+.wr-fontcolor-939{ color: #b22222; }
+
+.wr-fontcolor-940{ color: #a52a2a; }
+
+.wr-fontcolor-941{ color: #e9967a; }
+
+.wr-fontcolor-942{ color: #fa8072; }
+
+.wr-fontcolor-943{ color: #ff8c00; }
+
+.wr-fontcolor-944{ color: #ff7f50; }
+
+.wr-fontcolor-945{ color: #f08080; }
+
+.wr-fontcolor-946{ color: #ff69b4; }
+
+.wr-fontcolor-947{ color: #ffc0cb; }
+
+.wr-fontcolor-948{ color: #ffb6c1; }
+
+.wr-fontcolor-949{ color: #db7093; }
+
+.wr-fontcolor-950{ color: #b03060; }
+
+.wr-fontcolor-951{ color: #c71585; }
+
+.wr-fontcolor-952{ color: #d02090; }
+
+.wr-fontcolor-953{ color: #ee82ee; }
+
+.wr-fontcolor-954{ color: #dda0dd; }
+
+.wr-fontcolor-955{ color: #da70d6; }
+
+.wr-fontcolor-956{ color: #ba55d3; }
+
+.wr-fontcolor-957{ color: #9932cc; }
+
+.wr-fontcolor-958{ color: #9400d3; }
+
+.wr-fontcolor-959{ color: #8a2be2; }
+
+.wr-fontcolor-960{ color: #a020f0; }
+
+.wr-fontcolor-961{ color: #9370db; }
+
+.wr-fontcolor-962{ color: #eee9e9; }
+
+.wr-fontcolor-963{ color: #cdc9c9; }
+
+.wr-fontcolor-964{ color: #8b8989; }
+
+.wr-fontcolor-965{ color: #eee5de; }
+
+.wr-fontcolor-966{ color: #cdc5bf; }
+
+.wr-fontcolor-967{ color: #8b8682; }
+
+.wr-fontcolor-968{ color: #eedfcc; }
+
+.wr-fontcolor-969{ color: #cdc0b0; }
+
+.wr-fontcolor-970{ color: #8b8378; }
+
+.wr-fontcolor-971{ color: #eed5b7; }
+
+.wr-fontcolor-972{ color: #cdb79e; }
+
+.wr-fontcolor-973{ color: #8b7d6b; }
+
+.wr-fontcolor-974{ color: #eecbad; }
+
+.wr-fontcolor-975{ color: #cdaf95; }
+
+.wr-fontcolor-976{ color: #8b7765; }
+
+.wr-fontcolor-977{ color: #eecfa1; }
+
+.wr-fontcolor-978{ color: #cdb38b; }
+
+.wr-fontcolor-979{ color: #8b795e; }
+
+.wr-fontcolor-980{ color: #eee9bf; }
+
+.wr-fontcolor-981{ color: #cdc9a5; }
+
+.wr-fontcolor-982{ color: #8b8970; }
+
+.wr-fontcolor-983{ color: #eee8cd; }
+
+.wr-fontcolor-984{ color: #cdc8b1; }
+
+.wr-fontcolor-985{ color: #8b8878; }
+
+.wr-fontcolor-986{ color: #eeeee0; }
+
+.wr-fontcolor-987{ color: #cdcdc1; }
+
+.wr-fontcolor-988{ color: #8b8b83; }
+
+.wr-fontcolor-989{ color: #e0eee0; }
+
+.wr-fontcolor-990{ color: #c1cdc1; }
+
+.wr-fontcolor-991{ color: #838b83; }
+
+.wr-fontcolor-992{ color: #eee0e5; }
+
+.wr-fontcolor-993{ color: #cdc1c5; }
+
+.wr-fontcolor-994{ color: #8b8386; }
+
+.wr-fontcolor-995{ color: #eed5d2; }
+
+.wr-fontcolor-996{ color: #cdb7b5; }
+
+.wr-fontcolor-997{ color: #8b7d7b; }
+
+.wr-fontcolor-998{ color: #e0eeee; }
+
+.wr-fontcolor-999{ color: #c1cdcd; }
+
+.wr-fontcolor-1000{ color: #838b8b; }
+
+.wr-fontcolor-1001{ color: #836fff; }
+
+.wr-fontcolor-1002{ color: #7a67ee; }
+
+.wr-fontcolor-1003{ color: #6959cd; }
+
+.wr-fontcolor-1004{ color: #473c8b; }
+
+.wr-fontcolor-1005{ color: #4876ff; }
+
+.wr-fontcolor-1006{ color: #436eee; }
+
+.wr-fontcolor-1007{ color: #3a5fcd; }
+
+.wr-fontcolor-1008{ color: #27408b; }
+
+.wr-fontcolor-1009{ color: #0000ee; }
+
+.wr-fontcolor-1010{ color: #00008b; }
+
+.wr-fontcolor-1011{ color: #1c86ee; }
+
+.wr-fontcolor-1012{ color: #1874cd; }
+
+.wr-fontcolor-1013{ color: #104e8b; }
+
+.wr-fontcolor-1014{ color: #63b8ff; }
+
+.wr-fontcolor-1015{ color: #5cacee; }
+
+.wr-fontcolor-1016{ color: #4f94cd; }
+
+.wr-fontcolor-1017{ color: #36648b; }
+
+.wr-fontcolor-1018{ color: #00b2ee; }
+
+.wr-fontcolor-1019{ color: #009acd; }
+
+.wr-fontcolor-1020{ color: #00688b; }
+
+.wr-fontcolor-1021{ color: #87ceff; }
+
+.wr-fontcolor-1022{ color: #7ec0ee; }
+
+.wr-fontcolor-1023{ color: #6ca6cd; }
+
+.wr-fontcolor-1024{ color: #4a708b; }
+
+.wr-fontcolor-1025{ color: #b0e2ff; }
+
+.wr-fontcolor-1026{ color: #a4d3ee; }
+
+.wr-fontcolor-1027{ color: #8db6cd; }
+
+.wr-fontcolor-1028{ color: #607b8b; }
+
+.wr-fontcolor-1029{ color: #c6e2ff; }
+
+.wr-fontcolor-1030{ color: #b9d3ee; }
+
+.wr-fontcolor-1031{ color: #9fb6cd; }
+
+.wr-fontcolor-1032{ color: #6c7b8b; }
+
+.wr-fontcolor-1033{ color: #cae1ff; }
+
+.wr-fontcolor-1034{ color: #bcd2ee; }
+
+.wr-fontcolor-1035{ color: #a2b5cd; }
+
+.wr-fontcolor-1036{ color: #6e7b8b; }
+
+.wr-fontcolor-1037{ color: #bfefff; }
+
+.wr-fontcolor-1038{ color: #b2dfee; }
+
+.wr-fontcolor-1039{ color: #9ac0cd; }
+
+.wr-fontcolor-1040{ color: #68838b; }
+
+.wr-fontcolor-1041{ color: #d1eeee; }
+
+.wr-fontcolor-1042{ color: #b4cdcd; }
+
+.wr-fontcolor-1043{ color: #7a8b8b; }
+
+.wr-fontcolor-1044{ color: #bbffff; }
+
+.wr-fontcolor-1045{ color: #aeeeee; }
+
+.wr-fontcolor-1046{ color: #96cdcd; }
+
+.wr-fontcolor-1047{ color: #668b8b; }
+
+.wr-fontcolor-1048{ color: #98f5ff; }
+
+.wr-fontcolor-1049{ color: #8ee5ee; }
+
+.wr-fontcolor-1050{ color: #7ac5cd; }
+
+.wr-fontcolor-1051{ color: #53868b; }
+
+.wr-fontcolor-1052{ color: #00f5ff; }
+
+.wr-fontcolor-1053{ color: #00e5ee; }
+
+.wr-fontcolor-1054{ color: #00c5cd; }
+
+.wr-fontcolor-1055{ color: #00868b; }
+
+.wr-fontcolor-1056{ color: #00eeee; }
+
+.wr-fontcolor-1057{ color: #00cdcd; }
+
+.wr-fontcolor-1058{ color: #008b8b; }
+
+.wr-fontcolor-1059{ color: #97ffff; }
+
+.wr-fontcolor-1060{ color: #8deeee; }
+
+.wr-fontcolor-1061{ color: #79cdcd; }
+
+.wr-fontcolor-1062{ color: #528b8b; }
+
+.wr-fontcolor-1063{ color: #76eec6; }
+
+.wr-fontcolor-1064{ color: #458b74; }
+
+.wr-fontcolor-1065{ color: #c1ffc1; }
+
+.wr-fontcolor-1066{ color: #b4eeb4; }
+
+.wr-fontcolor-1067{ color: #9bcd9b; }
+
+.wr-fontcolor-1068{ color: #698b69; }
+
+.wr-fontcolor-1069{ color: #54ff9f; }
+
+.wr-fontcolor-1070{ color: #4eee94; }
+
+.wr-fontcolor-1071{ color: #43cd80; }
+
+.wr-fontcolor-1072{ color: #7ccd7c; }
+
+.wr-fontcolor-1073{ color: #548b54; }
+
+.wr-fontcolor-1074{ color: #00ee76; }
+
+.wr-fontcolor-1075{ color: #00cd66; }
+
+.wr-fontcolor-1076{ color: #008b45; }
+
+.wr-fontcolor-1077{ color: #00ee00; }
+
+.wr-fontcolor-1078{ color: #00cd00; }
+
+.wr-fontcolor-1079{ color: #008b00; }
+
+.wr-fontcolor-1080{ color: #76ee00; }
+
+.wr-fontcolor-1081{ color: #66cd00; }
+
+.wr-fontcolor-1082{ color: #458b00; }
+
+.wr-fontcolor-1083{ color: #c0ff3e; }
+
+.wr-fontcolor-1084{ color: #b3ee3a; }
+
+.wr-fontcolor-1085{ color: #698b22; }
+
+.wr-fontcolor-1086{ color: #caff70; }
+
+.wr-fontcolor-1087{ color: #bcee68; }
+
+.wr-fontcolor-1088{ color: #a2cd5a; }
+
+.wr-fontcolor-1089{ color: #6e8b3d; }
+
+.wr-fontcolor-1090{ color: #fff68f; }
+
+.wr-fontcolor-1091{ color: #eee685; }
+
+.wr-fontcolor-1092{ color: #cdc673; }
+
+.wr-fontcolor-1093{ color: #8b864e; }
+
+.wr-fontcolor-1094{ color: #ffec8b; }
+
+.wr-fontcolor-1095{ color: #eedc82; }
+
+.wr-fontcolor-1096{ color: #cdbe70; }
+
+.wr-fontcolor-1097{ color: #8b814c; }
+
+.wr-fontcolor-1098{ color: #eeeed1; }
+
+.wr-fontcolor-1099{ color: #cdcdb4; }
+
+.wr-fontcolor-1100{ color: #8b8b7a; }
+
+.wr-fontcolor-1101{ color: #eeee00; }
+
+.wr-fontcolor-1102{ color: #cdcd00; }
+
+.wr-fontcolor-1103{ color: #8b8b00; }
+
+.wr-fontcolor-1104{ color: #eec900; }
+
+.wr-fontcolor-1105{ color: #cdad00; }
+
+.wr-fontcolor-1106{ color: #8b7500; }
+
+.wr-fontcolor-1107{ color: #ffc125; }
+
+.wr-fontcolor-1108{ color: #eeb422; }
+
+.wr-fontcolor-1109{ color: #cd9b1d; }
+
+.wr-fontcolor-1110{ color: #8b6914; }
+
+.wr-fontcolor-1111{ color: #ffb90f; }
+
+.wr-fontcolor-1112{ color: #eead0e; }
+
+.wr-fontcolor-1113{ color: #cd950c; }
+
+.wr-fontcolor-1114{ color: #ffc1c1; }
+
+.wr-fontcolor-1115{ color: #eeb4b4; }
+
+.wr-fontcolor-1116{ color: #cd9b9b; }
+
+.wr-fontcolor-1117{ color: #8b6969; }
+
+.wr-fontcolor-1118{ color: #ff6a6a; }
+
+.wr-fontcolor-1119{ color: #ee6363; }
+
+.wr-fontcolor-1120{ color: #cd5555; }
+
+.wr-fontcolor-1121{ color: #8b3a3a; }
+
+.wr-fontcolor-1122{ color: #ff8247; }
+
+.wr-fontcolor-1123{ color: #ee7942; }
+
+.wr-fontcolor-1124{ color: #cd6839; }
+
+.wr-fontcolor-1125{ color: #8b4726; }
+
+.wr-fontcolor-1126{ color: #ffd39b; }
+
+.wr-fontcolor-1127{ color: #eec591; }
+
+.wr-fontcolor-1128{ color: #cdaa7d; }
+
+.wr-fontcolor-1129{ color: #8b7355; }
+
+.wr-fontcolor-1130{ color: #ffe7ba; }
+
+.wr-fontcolor-1131{ color: #eed8ae; }
+
+.wr-fontcolor-1132{ color: #cdba96; }
+
+.wr-fontcolor-1133{ color: #8b7e66; }
+
+.wr-fontcolor-1134{ background-image: linear-gradient(to right, rgb(226, 189, 123), rgb(161, 123, 118)); }
+
+.wr-fontcolor-1135{ background-image: linear-gradient(to right, rgb(120, 95, 50), rgb(161, 123, 118)); }
+
+.wr-fontcolor-1136{ background-image: linear-gradient(to right, rgb(120, 95, 50), rgb(118, 160, 161)); }
+
+.wr-fontcolor-1137{ background-image: linear-gradient(to right, rgb(120, 95, 50), rgb(54, 93, 95)); }
+
+.wr-fontcolor-1138{ background-image: linear-gradient(to right, rgb(120, 95, 50), rgb(55, 77, 78)); }
+
+.wr-fontcolor-1139{ background-image: linear-gradient(to right, rgb(120, 95, 50), rgb(38, 71, 72)); }
+
+.wr-fontcolor-1140{ background-image: linear-gradient(to right, rgb(120, 95, 50), rgb(18, 18, 19)); }
+
+.wr-fontcolor-1141{ background-image: linear-gradient(to right, rgb(120, 95, 50), rgb(31, 42, 43)); }
+
+.wr-fontcolor-1142{ background-image: linear-gradient(to right, rgb(120, 95, 50), rgb(16, 31, 31)); }
+
+.wr-fontcolor-1143{ background-image: linear-gradient(to right, rgb(245, 222, 182), rgb(127, 171, 172)); }
+
+.wr-fontcolor-1144{ background-image: linear-gradient(to right, rgb(245, 222, 182), rgb(87, 134, 135)); }
+
+.wr-fontcolor-1145{ background-image: linear-gradient(to right, rgb(245, 222, 182), rgb(42, 145, 148)); }
+
+.wr-fontcolor-1146{ background-image: linear-gradient(to right, rgb(245, 222, 182), rgb(62, 190, 195)); }
+
+.wr-fontcolor-1147{ background-image: linear-gradient(to right, rgb(241, 227, 202), rgb(42, 125, 128)); }
+
+.wr-fontcolor-1148{ background-image: linear-gradient(to right, rgb(241, 227, 202), rgb(16, 45, 46)); }
+
+.wr-fontcolor-1149{ background-image: linear-gradient(to right, rgb(241, 227, 202), rgb(42, 50, 50)); }
+
+.wr-fontcolor-1150{ background-image: linear-gradient(to right, rgb(241, 227, 202), rgb(7, 7, 7)); }
+
+.wr-fontcolor-1151{ background-image: linear-gradient(to right, rgb(241, 227, 202), rgb(57, 91, 93)); }
+
+.wr-fontcolor-1152{ background-image: linear-gradient(to right, rgb(241, 227, 202), rgb(70, 181, 185)); }
+
+.wr-fontcolor-1153{ background-image: linear-gradient(to right, rgb(241, 227, 202), rgb(33, 114, 117)); }
+
+.wr-fontcolor-1154{ background-image: linear-gradient(to right, rgb(241, 227, 202), rgb(16, 233, 241)); }
+
+.wr-fontcolor-1155{ background-image: linear-gradient(to right, rgb(174, 136, 70), rgb(16, 233, 241)); }
+
+.wr-fontcolor-1156{ background-image: linear-gradient(to right, rgb(130, 51, 41), rgb(98, 70, 29)); }
+
+.wr-fontcolor-1157{ background-image: linear-gradient(to right, rgb(217, 81, 63), rgb(98, 70, 29)); }
+
+.wr-fontcolor-1158{ background-image: linear-gradient(to right, rgb(217, 81, 63), rgb(161, 126, 75)); }
+
+.wr-fontcolor-1159{ background-image: linear-gradient(to right, rgb(217, 81, 63), rgb(235, 148, 21)); }
+
+.wr-fontcolor-1160{ background-image: linear-gradient(to right, rgb(33, 6, 2), rgb(235, 148, 21)); }
+
+.wr-fontcolor-1161{ background-image: linear-gradient(to right, rgb(33, 6, 2), rgb(174, 142, 95)); }
+
+.wr-fontcolor-1162{ background-image: linear-gradient(to right, rgb(33, 6, 2), rgb(52, 41, 25)); }
+
+.wr-fontcolor-1163{ background-image: linear-gradient(to right, rgb(33, 6, 2), rgb(107, 79, 38)); }
+
+.wr-fontcolor-1164{ background-image: linear-gradient(to right, rgb(119, 47, 38), rgb(107, 79, 38)); }
+
+.wr-fontcolor-1165{ background-image: linear-gradient(to right, rgb(56, 8, 2), rgb(74, 45, 4)); }
+
+.wr-fontcolor-1166{ background-image: linear-gradient(to right, rgb(56, 8, 2), rgb(4, 35, 74)); }
+
+.wr-fontcolor-1167{ background-image: linear-gradient(to right, rgb(141, 59, 48), rgb(4, 35, 74)); }
+
+.wr-fontcolor-1168{ background-image: linear-gradient(to right, rgb(228, 171, 164), rgb(154, 190, 235)); }
+
+.wr-fontcolor-1169{ background-image: linear-gradient(to right, rgb(239, 201, 197), rgb(197, 212, 232)); }
+
+.wr-fontcolor-1170{ background-image: linear-gradient(to right, rgb(246, 230, 228), rgb(205, 221, 241)); }
+
+.wr-fontcolor-1171{ background-image: linear-gradient(to right, rgb(239, 75, 54), rgb(205, 221, 241)); }
+
+.wr-fontcolor-1172{ background-image: linear-gradient(to right, rgb(191, 34, 14), rgb(205, 221, 241)); }
+
+.wr-fontcolor-1173{ background-image: linear-gradient(to right, rgb(191, 34, 14), rgb(45, 104, 180)); }
+
+.wr-fontcolor-1174{ background-image: linear-gradient(to right, rgb(191, 34, 14), rgb(12, 113, 241)); }
+
+.wr-fontcolor-1175{ background-image: linear-gradient(to right, rgb(191, 34, 14), rgb(12, 64, 241)); }
+
+.wr-fontcolor-1176{ background-image: linear-gradient(to right, rgb(191, 34, 14), rgb(28, 15, 174)); }
+
+.wr-fontcolor-1177{ background-image: linear-gradient(to right, rgb(191, 34, 14), rgb(39, 23, 224)); }
+
+.wr-fontcolor-1178{ background-image: linear-gradient(to right, rgb(191, 34, 14), rgb(28, 20, 111)); }
+
+.wr-fontcolor-1179{ background-image: linear-gradient(to right, rgb(239, 38, 12), rgb(28, 20, 111)); }
+
+.wr-fontcolor-1180{ background-image: linear-gradient(to right, rgb(232, 240, 255), rgb(0, 58, 132)); }
+
+.wr-fontcolor-1181{ background-image: linear-gradient(to right, rgb(232, 240, 255), rgb(11, 25, 43)); }
+
+.wr-fontcolor-1182{ background-image: linear-gradient(to right, rgb(10, 28, 59), rgb(16, 108, 224)); }
+
+.wr-fontcolor-1183{ background-image: linear-gradient(to right, rgb(11, 50, 187), rgb(170, 173, 243)); }
+
+.wr-fontcolor-1184{ background-image: linear-gradient(to right, rgb(11, 11, 11), rgb(120, 124, 195)); }
+
+.wr-fontcolor-1185{ background-image: linear-gradient(to right, rgb(45, 48, 57), rgb(0, 0, 4)); }
+
+.wr-fontcolor-1186{ background-image: linear-gradient(to right, rgb(45, 51, 72), rgb(0, 0, 4)); }
+
+.wr-fontcolor-1187{ background-image: linear-gradient(to right, rgb(45, 51, 72), rgb(8, 9, 9)); }
+
+.wr-fontcolor-1188{ background-image: linear-gradient(to right, rgb(8, 21, 67), rgb(8, 9, 9)); }
+
+.wr-fontcolor-1189{ background-image: linear-gradient(to right, rgb(30, 33, 44), rgb(12, 13, 30)); }
+
+.wr-fontcolor-1190{ background-image: linear-gradient(to right, rgb(5, 12, 39), rgb(13, 18, 111)); }
+
+.wr-fontcolor-1191{ background-image: linear-gradient(to right, rgb(240, 242, 248), rgb(216, 157, 248)); }
+
+.wr-fontcolor-1192{ background-image: linear-gradient(to right, rgb(21, 66, 222), rgb(216, 157, 248)); }
+
+.wr-fontcolor-1193{ background-image: linear-gradient(to right, rgb(21, 66, 222), rgb(134, 48, 182)); }
+
+.wr-fontcolor-1194{ background-image: linear-gradient(to right, rgb(170, 45, 170), rgb(39, 12, 119)); }
+
+.wr-fontcolor-1195{ background-image: linear-gradient(to right, rgb(227, 22, 228), rgb(39, 12, 119)); }
+
+.wr-fontcolor-1196{ background-image: linear-gradient(to right, rgb(253, 122, 254), rgb(29, 0, 33)); }
+
+.wr-fontcolor-1197{ background-image: linear-gradient(to right, rgb(163, 74, 163), rgb(19, 0, 22)); }
+
+.wr-fontcolor-1198{ background-image: linear-gradient(to right, rgb(76, 28, 76), rgb(19, 0, 22)); }
+
+.wr-fontcolor-1199{ background-image: linear-gradient(to right, rgb(70, 11, 70), rgb(19, 0, 22)); }
+
+.wr-fontcolor-1200{ background-image: linear-gradient(to right, rgb(251, 4, 252), rgb(0, 0, 0)); }
+
+.wr-fontcolor-1201{ background-image: linear-gradient(to right, rgb(250, 62, 27), rgb(204, 98, 221)); }
+
+.wr-fontcolor-1202{ background-image: linear-gradient(to right, rgb(250, 62, 27), rgb(101, 14, 115)); }
+
+.wr-fontcolor-1203{ background-image: linear-gradient(to right, rgb(250, 62, 27), rgb(93, 49, 100)); }
+
+.wr-fontcolor-1204{ background-image: linear-gradient(to right, rgb(250, 95, 66), rgb(226, 130, 241)); }
+
+.wr-fontcolor-1205{ background-image: linear-gradient(to right, rgb(250, 95, 66), rgb(244, 193, 252)); }
+
+.wr-fontcolor-1206{ background-image: linear-gradient(to right, rgb(250, 95, 66), rgb(240, 206, 245)); }
+
+.wr-fontcolor-1207{ background-image: linear-gradient(to right, rgb(254, 191, 179), rgb(241, 226, 243)); }
+
+.wr-fontcolor-1208{ background-image: linear-gradient(to right, rgb(252, 55, 90), rgb(117, 234, 232)); }
+
+.wr-fontcolor-1209{ background-image: linear-gradient(to right, rgb(136, 225, 243), rgb(234, 117, 132)); }
+
+.wr-fontcolor-1210{ background-image: linear-gradient(to right, rgb(136, 225, 243), rgb(241, 168, 178)); }
+
+.wr-fontcolor-1211{ background-image: linear-gradient(to right, rgb(136, 225, 243), rgb(102, 56, 62)); }
+
+.wr-fontcolor-1212{ background-image: linear-gradient(to right, rgb(58, 132, 146), rgb(102, 56, 62)); }
+
+.wr-fontcolor-1213{ background-image: linear-gradient(to right, rgb(58, 132, 146), rgb(213, 186, 190)); }
+
+.wr-fontcolor-1214{ background-image: linear-gradient(to right, rgb(58, 132, 146), rgb(212, 213, 186)); }
+
+.wr-fontcolor-1215{ background-image: linear-gradient(to right, rgb(211, 12, 186), rgb(250, 252, 189)); }
+
+.wr-fontcolor-1216{ background-image: linear-gradient(to right, rgb(211, 96, 12), rgb(250, 252, 189)); }
+
+.wr-fontcolor-1217{ background-image: linear-gradient(to right, rgb(211, 96, 12), rgb(221, 226, 36)); }
+
+.wr-fontcolor-1218{ background-image: linear-gradient(to right, rgb(122, 58, 12), rgb(231, 237, 5)); }
+
+.wr-fontcolor-1219{ background-image: linear-gradient(to right, rgb(234, 186, 151), rgb(231, 234, 136)); }
+
+.wr-fontcolor-1220{ background-image: linear-gradient(to right, rgb(241, 209, 186), rgb(231, 232, 192)); }
+
+.wr-fontcolor-1221{ background-image: linear-gradient(to right, rgb(241, 209, 186), rgb(241, 241, 230)); }
+
+.wr-fontcolor-1222{ background-image: linear-gradient(to right, rgb(235, 226, 219), rgb(241, 241, 230)); }
+
+.wr-fontcolor-1223{ background-image: linear-gradient(to right, rgb(198, 189, 183), rgb(239, 239, 238)); }
+
+.wr-fontcolor-1224{ background-image: linear-gradient(to right, rgb(159, 148, 140), rgb(239, 239, 238)); }
+
+.wr-fontcolor-1225{ background-image: linear-gradient(to right, rgb(239, 203, 177), rgb(126, 128, 71)); }
+
+.wr-fontcolor-1226{ background-image: linear-gradient(to right, rgb(239, 203, 177), rgb(134, 137, 36)); }
+
+.wr-fontcolor-1227{ background-image: linear-gradient(to right, rgb(239, 203, 177), rgb(117, 119, 66)); }
+
+.wr-fontcolor-1228{ background-image: linear-gradient(to right, rgb(198, 143, 102), rgb(117, 119, 66)); }
+
+.wr-fontcolor-1229{ background-image: linear-gradient(to right, rgb(198, 143, 102), rgb(206, 209, 96)); }
+
+.wr-fontcolor-1230{ background-image: linear-gradient(to right, rgb(198, 143, 102), rgb(213, 215, 153)); }
+
+.wr-fontcolor-1231{ background-image: linear-gradient(to right, rgb(204, 162, 24), rgb(213, 215, 153)); }
+
+.wr-fontcolor-1232{ background-image: linear-gradient(to right, rgb(243, 220, 145), rgb(215, 153, 159)); }
+
+.wr-fontcolor-1233{ background-image: linear-gradient(to right, rgb(243, 220, 145), rgb(241, 198, 202)); }
+
+.wr-fontcolor-1234{ background-image: linear-gradient(to right, rgb(241, 226, 177), rgb(241, 198, 202)); }
+
+.wr-fontcolor-1235{ background-image: linear-gradient(to right, rgb(192, 241, 177), rgb(241, 198, 202)); }
+
+.wr-fontcolor-1236{ background-image: linear-gradient(to right, rgb(217, 239, 210), rgb(241, 198, 202)); }
+
+.wr-fontcolor-1237{ background-image: linear-gradient(to right, rgb(174, 137, 99), rgb(26, 25, 25)); }
+
+.wr-fontcolor-1238{ background-image: linear-gradient(to right, rgb(215, 166, 116), rgb(33, 19, 2)); }
+
+.wr-fontcolor-1239{ background-image: linear-gradient(to right, rgb(2, 21, 22), rgb(189, 255, 231)); }
+
+.wr-fontcolor-1240{ background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(9, 41, 29)); }
+
+.wr-fontcolor-1241{ background-image: linear-gradient(to right, rgb(3, 9, 28), rgb(9, 41, 29)); }
+
+.wr-fontcolor-1242{ background-image: linear-gradient(to right, rgb(3, 9, 28), rgb(174, 40, 37)); }
+
+.wr-fontcolor-1243{ background-image: linear-gradient(to right, rgb(115, 115, 115), rgb(174, 40, 37)); }
+
+.wr-fontcolor-1244{ background-image: linear-gradient(to right, rgb(24, 25, 30), rgb(61, 54, 54)); }
+
+.wr-fontcolor-1245{ background-image: linear-gradient(to right, rgb(6, 5, 0), rgb(115, 48, 46)); }
+
+.wr-fontcolor-1246{ background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(56, 44, 44)); }
+
+.wr-fontcolor-1247{ background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(44, 38, 38)); }
+
+.wr-fontcolor-1248{ background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(38, 39, 44)); }
+
+.wr-fontcolor-1249{ background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(39, 43, 59)); }
+
+.wr-fontcolor-1250{ background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(52, 54, 63)); }
+
+.wr-fontcolor-1251{ background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(7, 37, 44)); }
+
+.wr-fontcolor-1252{ background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(67, 90, 96)); }
+
+.wr-fontcolor-1253{ background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(2, 61, 76)); }
+
+.wr-fontcolor-1254{ background-image: linear-gradient(to right, rgb(10, 15, 19), rgb(12, 41, 5)); }
+
+.wr-fontcolor-1255{ background-image: linear-gradient(to right, rgb(10, 15, 19), rgb(50, 232, 9)); }
+
+.wr-fontcolor-1256{ background-image: linear-gradient(to right, rgb(10, 15, 19), rgb(188, 226, 179)); }
+
+.wr-fontcolor-1257{ background-image: linear-gradient(to right, rgb(10, 15, 19), rgb(141, 172, 134)); }
+
+.wr-fontcolor-1258{ background-image: linear-gradient(to right, rgb(10, 15, 19), rgb(76, 95, 72)); }
+
+.wr-fontcolor-1259{ background-image: linear-gradient(to right, rgb(10, 15, 19), rgb(39, 59, 34)); }
+
+.wr-fontcolor-1260{ background-image: linear-gradient(to right, rgb(60, 88, 113), rgb(145, 202, 132)); }
+
+.wr-fontcolor-1261{ background-image: linear-gradient(to right, rgb(56, 148, 232), rgb(46, 157, 161)); }
+
+.wr-fontcolor-1262{ background-image: linear-gradient(to right, rgb(56, 232, 199), rgb(93, 221, 130)); }
+
+.wr-fontcolor-1263{ background-image: linear-gradient(to right, rgb(56, 232, 199), rgb(78, 178, 107)); }
+
+.wr-fontcolor-1264{ background-image: linear-gradient(to right, rgb(40, 152, 131), rgb(78, 178, 107)); }
+
+.wr-fontcolor-1265{ background-image: linear-gradient(to right, rgb(99, 239, 213), rgb(114, 230, 148)); }
+
+.wr-fontcolor-1266{ background-image: linear-gradient(to right, rgb(99, 239, 213), rgb(14, 63, 28)); }
+
+.wr-fontcolor-1267{ background-image: linear-gradient(to right, rgb(42, 100, 89), rgb(14, 63, 28)); }
+
+.wr-fontcolor-1268{ background-image: linear-gradient(to right, rgb(7, 96, 80), rgb(74, 170, 103)); }
+
+.wr-fontcolor-1269{ background-image: linear-gradient(to right, rgb(7, 96, 80), rgb(56, 102, 69)); }
+
+.wr-fontcolor-1270{ background-image: linear-gradient(to right, rgb(27, 56, 50), rgb(65, 145, 89)); }
+
+.wr-fontcolor-1271{ background-image: linear-gradient(to right, rgb(27, 56, 50), rgb(52, 228, 103)); }
+
+.wr-fontcolor-1272{ background-image: linear-gradient(to right, rgb(27, 56, 50), rgb(18, 241, 83)); }
+
+.wr-fontcolor-1273{ background-image: linear-gradient(to right, rgb(35, 67, 17), rgb(18, 241, 83)); }
+
+.wr-fontcolor-1274{ background-image: linear-gradient(to right, rgb(104, 191, 54), rgb(70, 111, 82)); }
+
+.wr-fontcolor-1275{ background-image: linear-gradient(to right, rgb(96, 250, 9), rgb(8, 252, 79)); }
+
+.wr-fontcolor-1276{ background-image: linear-gradient(to right, rgb(96, 250, 9), rgb(8, 252, 165)); }
+
+.wr-fontcolor-1277{ background-image: linear-gradient(to right, rgb(69, 115, 44), rgb(8, 252, 165)); }
+
+.wr-fontcolor-1278{ background-image: linear-gradient(to right, rgb(82, 150, 44), rgb(134, 198, 175)); }
+
+.wr-fontcolor-1279{ background-image: linear-gradient(to right, rgb(82, 150, 44), rgb(31, 67, 54)); }
+
+.wr-fontcolor-1280{ background-image: linear-gradient(to right, rgb(41, 59, 58), rgb(33, 70, 57)); }
+
+.wr-fontcolor-1281{ background-image: linear-gradient(to right, rgb(41, 59, 58), rgb(29, 50, 42)); }
+
+.wr-fontcolor-1282{ background-image: linear-gradient(to right, rgb(19, 46, 45), rgb(29, 50, 42)); }
+
+.wr-fontcolor-1283{ background-image: linear-gradient(to right, rgb(4, 39, 37), rgb(29, 50, 42)); }
+
+.wr-fontcolor-1284{ background-image: linear-gradient(to right, rgb(4, 39, 37), rgb(67, 141, 114)); }
+
+.wr-fontcolor-1285{ background-image: linear-gradient(to right, rgb(22, 102, 46), rgb(5, 57, 39)); }
+
+.wr-fontcolor-1286{ background-image: linear-gradient(to right, rgb(30, 232, 89), rgb(29, 124, 65)); }
+
+.wr-fontcolor-1287{ background-image: linear-gradient(to right, rgb(38, 185, 81), rgb(29, 124, 115)); }
+
+.wr-fontcolor-1288{ background-image: linear-gradient(to right, rgb(12, 93, 35), rgb(29, 124, 115)); }
+
+.wr-fontcolor-1289{ background-image: linear-gradient(to right, rgb(21, 234, 83), rgb(29, 124, 115)); }
+
+.wr-fontcolor-1290{ background-image: linear-gradient(to right, rgb(26, 30, 27), rgb(13, 82, 75)); }
+
+.wr-fontcolor-1291{ background-image: linear-gradient(to right, rgb(26, 30, 27), rgb(59, 119, 113)); }
+
+.wr-fontcolor-1292{ background-image: linear-gradient(to right, rgb(8, 50, 20), rgb(28, 102, 95)); }
+
+.wr-fontcolor-1293{ background-image: linear-gradient(to right, rgb(7, 195, 62), rgb(235, 239, 103)); }
+
+.wr-fontcolor-1294{ background-image: linear-gradient(to right, rgb(24, 122, 53), rgb(235, 239, 103)); }
+
+.wr-fontcolor-1295{ background-image: linear-gradient(to right, rgb(44, 102, 61), rgb(235, 239, 103)); }
+
+.wr-fontcolor-1296{ background-image: linear-gradient(to right, rgb(17, 67, 31), rgb(235, 239, 103)); }
+
+.wr-fontcolor-1297{ background-image: linear-gradient(to right, rgb(33, 59, 41), rgb(235, 239, 103)); }
+
+.wr-fontcolor-1298{ background-image: linear-gradient(to right, rgb(33, 59, 41), rgb(179, 182, 96)); }
+
+.wr-fontcolor-1299{ background-image: linear-gradient(to right, rgb(9, 65, 25), rgb(97, 98, 41)); }
+
+.wr-fontcolor-1300{ background-image: linear-gradient(to right, rgb(9, 65, 25), rgb(179, 180, 137)); }
+
+.wr-fontcolor-1301{ background-image: linear-gradient(to right, rgb(3, 74, 24), rgb(179, 180, 137)); }
+
+.wr-fontcolor-1302{ background-image: linear-gradient(to right, rgb(3, 74, 24), rgb(136, 139, 52)); }
+
+.wr-fontcolor-1303{ background-image: linear-gradient(to right, rgb(11, 46, 22), rgb(136, 139, 52)); }
+
+.wr-fontcolor-1304{ background-image: linear-gradient(to right, rgb(21, 115, 15), rgb(243, 250, 7)); }
+
+.wr-fontcolor-1305{ background-image: linear-gradient(to right, rgb(10, 72, 6), rgb(253, 255, 191)); }
+
+.wr-fontcolor-1306{ background-image: linear-gradient(to right, rgb(10, 72, 6), rgb(203, 255, 191)); }
+
+.wr-fontcolor-1307{ background-image: linear-gradient(to right, rgb(33, 96, 29), rgb(107, 170, 93)); }
+
+.wr-fontcolor-1308{ background-image: linear-gradient(to right, rgb(127, 187, 124), rgb(105, 150, 95)); }
+
+.wr-fontcolor-1309{ background-image: linear-gradient(to right, rgb(19, 141, 11), rgb(105, 150, 95)); }
+
+.wr-fontcolor-1310{ background-image: linear-gradient(to right, rgb(177, 206, 175), rgb(145, 174, 138)); }
+
+.wr-fontcolor-1311{ background-image: linear-gradient(to right, rgb(207, 230, 206), rgb(197, 224, 191)); }
+
+.wr-fontcolor-1312{ background-image: linear-gradient(to right, rgb(164, 217, 161), rgb(156, 161, 155)); }
+
+.wr-fontcolor-1313{ background-image: linear-gradient(to right, rgb(164, 217, 161), rgb(104, 152, 93)); }
+
+.wr-fontcolor-1314{ background-image: linear-gradient(to right, rgb(164, 217, 161), rgb(28, 100, 11)); }
+
+.wr-fontcolor-1315{ background-image: linear-gradient(to right, rgb(85, 191, 79), rgb(15, 50, 7)); }
+
+.wr-fontcolor-1316{ background-image: linear-gradient(to right, rgb(79, 168, 191), rgb(15, 50, 7)); }
+
+.wr-fontcolor-1317{ background-image: linear-gradient(to right, rgb(79, 168, 191), rgb(57, 91, 49)); }
+
+.wr-fontcolor-1318{ background-image: linear-gradient(to right, rgb(10, 61, 74), rgb(33, 102, 17)); }
+
+.wr-fontcolor-1319{ background-image: linear-gradient(to right, rgb(95, 199, 226), rgb(122, 239, 96)); }
+
+.wr-fontcolor-1320{ background-image: linear-gradient(to right, rgb(8, 85, 106), rgb(65, 167, 41)); }
+
+.wr-fontcolor-1321{ background-image: linear-gradient(to right, rgb(8, 85, 106), rgb(52, 248, 7)); }
+
+.wr-fontcolor-1322{ background-image: linear-gradient(to right, rgb(9, 198, 248), rgb(52, 248, 7)); }
+
+.wr-fontcolor-1323{ background-image: linear-gradient(to right, rgb(82, 181, 208), rgb(48, 96, 37)); }
+
+.wr-fontcolor-1324{ background-image: linear-gradient(to right, rgb(48, 143, 169), rgb(77, 204, 48)); }
+
+.wr-fontcolor-1325{ background-image: linear-gradient(to right, rgb(32, 108, 128), rgb(54, 107, 41)); }
+
+.wr-fontcolor-1326{ background-image: linear-gradient(to right, rgb(158, 200, 211), rgb(159, 221, 144)); }
+
+.wr-fontcolor-1327{ background-image: linear-gradient(to right, rgb(24, 106, 128), rgb(159, 221, 144)); }
+
+.wr-fontcolor-1328{ background-image: linear-gradient(to right, rgb(24, 106, 128), rgb(38, 113, 21)); }
+
+.wr-fontcolor-1329{ background-image: linear-gradient(to right, rgb(69, 111, 122), rgb(77, 115, 68)); }
+
+.wr-fontcolor-1330{ background-image: linear-gradient(to right, rgb(126, 167, 178), rgb(127, 159, 119)); }
+
+.wr-fontcolor-1331{ background-image: linear-gradient(to right, rgb(126, 167, 178), rgb(49, 95, 39)); }
+
+.wr-fontcolor-1332{ background-image: linear-gradient(to right, rgb(32, 122, 146), rgb(17, 46, 11)); }
+
+.wr-fontcolor-1333{ background-image: linear-gradient(to right, rgb(8, 75, 93), rgb(17, 46, 11)); }
+
+.wr-fontcolor-1334{ background-image: linear-gradient(to right, rgb(8, 75, 93), rgb(21, 78, 8)); }
+
+.wr-fontcolor-1335{ background-image: linear-gradient(to right, rgb(8, 75, 93), rgb(24, 50, 18)); }
+
+.wr-fontcolor-1336{ background-image: linear-gradient(to right, rgb(8, 75, 93), rgb(8, 22, 5)); }
+
+.wr-fontcolor-1337{ background-image: linear-gradient(to right, rgb(8, 75, 93), rgb(10, 11, 10)); }
+
+.wr-fontcolor-1338{ background-image: linear-gradient(to right, rgb(8, 75, 93), rgb(156, 224, 140)); }
+
+.wr-fontcolor-1339{ background-image: linear-gradient(to right, rgb(14, 53, 63), rgb(6, 28, 1)); }
+
+.wr-fontcolor-1340{ background-image: linear-gradient(to right, rgb(41, 152, 182), rgb(48, 133, 28)); }
+
+.wr-fontcolor-1341{ background-image: linear-gradient(to right, rgb(41, 152, 182), rgb(20, 57, 11)); }
+
+.wr-fontcolor-1342{ background-image: linear-gradient(to right, rgb(41, 152, 182), rgb(4, 19, 1)); }
+
+.wr-fontcolor-1343{ background-image: linear-gradient(to right, rgb(128, 50, 25), rgb(85, 95, 15)); }
+
+.wr-fontcolor-1344{ background-image: linear-gradient(to right, rgb(128, 50, 25), rgb(92, 98, 44)); }
+
+.wr-fontcolor-1345{ background-image: linear-gradient(to right, rgb(232, 179, 162), rgb(155, 169, 54)); }
+
+.wr-fontcolor-1346{ background-image: linear-gradient(to right, rgb(171, 178, 78), rgb(128, 66, 58)); }
+
+.wr-fontcolor-1347{ background-image: linear-gradient(to right, rgb(124, 130, 50), rgb(128, 66, 58)); }
+
+.wr-fontcolor-1348{ background-image: linear-gradient(to right, rgb(124, 130, 50), rgb(224, 59, 38)); }
+
+.wr-fontcolor-1349{ background-image: linear-gradient(to right, rgb(124, 130, 50), rgb(172, 30, 11)); }
+
+.wr-fontcolor-1350{ background-image: linear-gradient(to right, rgb(124, 130, 50), rgb(83, 28, 21)); }
+
+.wr-fontcolor-1351{ background-image: linear-gradient(to right, rgb(173, 182, 57), rgb(230, 39, 15)); }
+
+.wr-fontcolor-1352{ background-image: linear-gradient(to right, rgb(173, 182, 57), rgb(72, 42, 38)); }
+
+.wr-fontcolor-1353{ background-image: linear-gradient(to right, rgb(173, 182, 57), rgb(63, 30, 26)); }
+
+.wr-fontcolor-1354{ background-image: linear-gradient(to right, rgb(73, 78, 18), rgb(120, 34, 23)); }
+
+.wr-fontcolor-1355{ background-image: linear-gradient(to right, rgb(168, 174, 87), rgb(120, 34, 23)); }
+
+.wr-fontcolor-1356{ background-image: linear-gradient(to right, rgb(168, 174, 87), rgb(57, 34, 31)); }
+
+.wr-fontcolor-1357{ background-image: linear-gradient(to right, rgb(211, 213, 180), rgb(132, 46, 35)); }
+
+.wr-fontcolor-1358{ background-image: linear-gradient(to right, rgb(211, 213, 180), rgb(211, 49, 28)); }
+
+.wr-fontcolor-1359{ background-image: linear-gradient(to right, rgb(211, 213, 180), rgb(154, 31, 16)); }
+
+.wr-fontcolor-1360{ background-image: linear-gradient(to right, rgb(237, 239, 210), rgb(252, 92, 72)); }
+
+.wr-fontcolor-1361{ background-image: linear-gradient(to right, rgb(234, 239, 174), rgb(252, 92, 72)); }
+
+.wr-fontcolor-1362{ background-image: linear-gradient(to right, rgb(234, 239, 174), rgb(126, 91, 86)); }
+
+.wr-fontcolor-1363{ background-image: linear-gradient(to right, rgb(234, 239, 174), rgb(19, 4, 2)); }
+
+.wr-fontcolor-1364{ background-image: linear-gradient(to right, rgb(107, 111, 49), rgb(96, 51, 45)); }
+
+.wr-fontcolor-1365{ background-image: linear-gradient(to right, rgb(107, 111, 49), rgb(74, 21, 14)); }
+
+.wr-fontcolor-1366{ background-image: linear-gradient(to right, rgb(107, 111, 49), rgb(215, 44, 22)); }
+
+.wr-fontcolor-1367{ background-image: linear-gradient(to right, rgb(107, 111, 49), rgb(174, 60, 46)); }
+
+.wr-fontcolor-1368{ background-image: linear-gradient(to right, rgb(107, 111, 49), rgb(100, 17, 6)); }
+
+.wr-fontcolor-1369{ background-image: linear-gradient(to right, rgb(78, 80, 58), rgb(15, 14, 14)); }
+
+.wr-fontcolor-1370{ background-image: linear-gradient(to right, rgb(78, 80, 58), rgb(31, 24, 23)); }
+
+.wr-fontcolor-1371{ background-image: linear-gradient(to right, rgb(78, 80, 58), rgb(67, 38, 34)); }
+
+.wr-fontcolor-1372{ background-image: linear-gradient(to right, rgb(78, 80, 58), rgb(56, 18, 13)); }
+
+.wr-fontcolor-1373{ background-image: linear-gradient(to right, rgb(68, 70, 40), rgb(15, 14, 14)); }
+
+.wr-fontcolor-1374{ background-image: linear-gradient(to right, rgb(140, 170, 47), rgb(15, 14, 14)); }
+
+.wr-fontcolor-1375{ background-image: linear-gradient(to right, rgb(140, 170, 47), rgb(43, 11, 7)); }
+
+.wr-fontcolor-1376{ background-image: linear-gradient(to right, rgb(140, 170, 47), rgb(65, 10, 3)); }
+
+.wr-fontcolor-1377{ background-image: linear-gradient(to right, rgb(140, 170, 47), rgb(104, 21, 11)); }
+
+.wr-fontcolor-1378{ background-image: linear-gradient(to right, rgb(140, 170, 47), rgb(161, 42, 27)); }
+
+.wr-fontcolor-1379{ background-image: linear-gradient(to right, rgb(140, 170, 47), rgb(239, 32, 5)); }
+
+.wr-fontcolor-1380{ background-image: linear-gradient(to right, rgb(196, 133, 23), rgb(239, 32, 5)); }
+
+.wr-fontcolor-1381{ background-image: linear-gradient(to right, rgb(196, 133, 23), rgb(170, 74, 62)); }
+
+.wr-fontcolor-1382{ background-image: linear-gradient(to right, rgb(196, 133, 23), rgb(167, 46, 30)); }
+
+.wr-fontcolor-1383{ background-image: linear-gradient(to right, rgb(196, 133, 23), rgb(67, 36, 33)); }
+
+.wr-fontcolor-1384{ background-image: linear-gradient(to right, rgb(196, 133, 23), rgb(43, 36, 35)); }
+
+.wr-fontcolor-1385{ background-image: linear-gradient(to right, rgb(60, 88, 113), rgb(70, 191, 42)); }
+
+.wr-fontcolor-1386{ background-image: linear-gradient(to right, rgb(245, 213, 212), rgb(15, 14, 13)); }
+
+.wr-fontcolor-1387{ background-image: linear-gradient(to right, rgb(72, 7, 107), rgb(29, 34, 41)); }
+
+.wr-fontcolor-1388{ background-image: linear-gradient(to right, rgb(72, 7, 107), rgb(5, 8, 11)); }
+
+.wr-fontcolor-1389{ background-image: linear-gradient(to right, rgb(7, 69, 107), rgb(5, 8, 11)); }
+
+.wr-fontcolor-1390{ background-image: linear-gradient(to right, rgb(82, 117, 139), rgb(4, 3, 17)); }
+
+.wr-fontcolor-1391{ background-image: linear-gradient(to right, rgb(82, 139, 96), rgb(4, 3, 17)); }
+
+.wr-fontcolor-1392{ background-image: linear-gradient(to right, rgb(82, 139, 96), rgb(178, 149, 114)); }
+
+.wr-fontcolor-1393{ background-image: linear-gradient(to right, rgb(219, 246, 226), rgb(9, 9, 9)); }
+
+.wr-fontcolor-1394{ background-image: linear-gradient(to right, rgb(219, 246, 226), rgb(154, 91, 15)); }
+
+.wr-fontcolor-1395{ background-image: linear-gradient(to right, rgb(219, 246, 226), rgb(191, 155, 111)); }
+
+.wr-fontcolor-1396{ background-image: linear-gradient(to right, rgb(219, 246, 226), rgb(67, 63, 58)); }
+
+.wr-fontcolor-1397{ background-image: linear-gradient(to right, rgb(219, 246, 226), rgb(128, 119, 64)); }
+
+.wr-fontcolor-1398{ background-image: linear-gradient(to right, rgb(219, 246, 226), rgb(69, 60, 7)); }
+
+.wr-fontcolor-1399{ background-image: linear-gradient(to right, rgb(219, 246, 226), rgb(113, 98, 7)); }
+
+.wr-fontcolor-1400{ background-image: linear-gradient(to right, rgb(219, 246, 226), rgb(59, 51, 4)); }
+
+.wr-fontcolor-1401{ background-image: linear-gradient(to right, rgb(219, 246, 226), rgb(58, 59, 4)); }
+
+.wr-fontcolor-1402{ background-image: linear-gradient(to right, rgb(219, 246, 226), rgb(144, 146, 51)); }
+
+.wr-fontcolor-1403{ background-image: linear-gradient(to right, rgb(219, 246, 226), rgb(107, 109, 27)); }
+
+.wr-fontcolor-1404{ background-image: linear-gradient(to right, rgb(219, 246, 226), rgb(84, 111, 40)); }
+
+.wr-fontcolor-1405{ background-image: linear-gradient(to right, rgb(219, 246, 226), rgb(193, 228, 136)); }
+
+.wr-fontcolor-1406{ background-image: linear-gradient(to right, rgb(219, 246, 226), rgb(174, 191, 147)); }
+
+.wr-fontcolor-1407{ background-image: linear-gradient(to right, rgb(219, 246, 226), rgb(51, 70, 20)); }
+
+.wr-fontcolor-1408{ background-image: linear-gradient(to right, rgb(219, 246, 226), rgb(82, 128, 8)); }
+
+.wr-fontcolor-1409{ background-image: linear-gradient(to right, rgb(219, 246, 226), rgb(68, 87, 36)); }
+
+.wr-fontcolor-1410{ background-image: linear-gradient(to right, rgb(161, 237, 180), rgb(192, 224, 139)); }
+
+.wr-fontcolor-1411{ background-image: linear-gradient(to right, rgb(161, 237, 180), rgb(152, 183, 100)); }
+
+.wr-fontcolor-1412{ background-image: linear-gradient(to right, rgb(161, 237, 180), rgb(99, 124, 57)); }
+
+.wr-fontcolor-1413{ background-image: linear-gradient(to right, rgb(161, 237, 180), rgb(33, 43, 18)); }
+
+.wr-fontcolor-1414{ background-image: linear-gradient(to right, rgb(161, 237, 180), rgb(38, 56, 8)); }
+
+.wr-fontcolor-1415{ background-image: linear-gradient(to right, rgb(161, 237, 180), rgb(151, 232, 17)); }
+
+.wr-fontcolor-1416{ background-image: linear-gradient(to right, rgb(161, 237, 180), rgb(122, 170, 42)); }
+
+.wr-fontcolor-1417{ background-image: linear-gradient(to right, rgb(161, 237, 180), rgb(37, 57, 4)); }
+
+.wr-fontcolor-1418{ background-image: linear-gradient(to right, rgb(15, 169, 53), rgb(37, 57, 4)); }
+
+.wr-fontcolor-1419{ background-image: linear-gradient(to right, rgb(97, 169, 15), rgb(37, 57, 4)); }
+
+.wr-fontcolor-1420{ background-image: linear-gradient(to right, rgb(97, 169, 15), rgb(19, 20, 17)); }
+
+.wr-fontcolor-1421{ background-image: linear-gradient(to right, rgb(97, 169, 15), rgb(146, 156, 19)); }
+
+.wr-fontcolor-1422{ background-image: linear-gradient(to right, rgb(97, 169, 15), rgb(225, 232, 135)); }
+
+.wr-fontcolor-1423{ background-image: linear-gradient(to right, rgb(183, 234, 124), rgb(225, 232, 135)); }
+
+.wr-fontcolor-1424{ background-image: linear-gradient(to right, rgb(210, 243, 171), rgb(197, 204, 113)); }
+
+.wr-fontcolor-1425{ background-image: linear-gradient(to right, rgb(210, 243, 171), rgb(165, 204, 113)); }
+
+.wr-fontcolor-1426{ background-image: linear-gradient(to right, rgb(210, 243, 171), rgb(79, 109, 37)); }
+
+.wr-fontcolor-1427{ background-image: linear-gradient(to right, rgb(173, 239, 97), rgb(79, 109, 37)); }
+
+.wr-fontcolor-1428{ background-image: linear-gradient(to right, rgb(173, 239, 97), rgb(37, 109, 49)); }
+
+.wr-fontcolor-1429{ background-image: linear-gradient(to right, rgb(173, 239, 97), rgb(147, 213, 158)); }
+
+.wr-fontcolor-1430{ background-image: linear-gradient(to right, rgb(173, 239, 97), rgb(37, 95, 46)); }
+
+.wr-fontcolor-1431{ background-image: linear-gradient(to right, rgb(197, 245, 142), rgb(24, 111, 148)); }
+
+.wr-fontcolor-1432{ background-image: linear-gradient(to right, rgb(203, 241, 160), rgb(47, 103, 126)); }
+
+.wr-fontcolor-1433{ background-image: linear-gradient(to right, rgb(203, 241, 160), rgb(47, 61, 126)); }
+
+.wr-fontcolor-1434{ background-image: linear-gradient(to right, rgb(203, 241, 160), rgb(32, 43, 96)); }
+
+.wr-fontcolor-1435{ background-image: linear-gradient(to right, rgb(203, 241, 160), rgb(25, 29, 48)); }
+
+.wr-fontcolor-1436{ background-image: linear-gradient(to right, rgb(203, 241, 160), rgb(12, 12, 13)); }
+
+.wr-fontcolor-1437{ background-image: linear-gradient(to right, rgb(203, 241, 160), rgb(14, 10, 113)); }
+
+.wr-fontcolor-1438{ background-image: linear-gradient(to right, rgb(203, 241, 160), rgb(24, 17, 195)); }
+
+.wr-fontcolor-1439{ background-image: linear-gradient(to right, rgb(203, 241, 160), rgb(13, 4, 248)); }
+
+.wr-fontcolor-1440{ background-image: linear-gradient(to right, rgb(236, 246, 224), rgb(13, 4, 248)); }
+
+.wr-fontcolor-1441{ background-image: linear-gradient(to right, rgb(236, 246, 224), rgb(12, 7, 143)); }
+
+.wr-fontcolor-1442{ background-image: linear-gradient(to right, rgb(236, 246, 224), rgb(61, 9, 254)); }
+
+.wr-fontcolor-1443{ background-image: linear-gradient(to right, rgb(236, 246, 224), rgb(121, 4, 250)); }
+
+.wr-fontcolor-1444{ background-image: linear-gradient(to right, rgb(236, 246, 224), rgb(72, 13, 137)); }
+
+.wr-fontcolor-1445{ background-image: linear-gradient(to right, rgb(236, 246, 224), rgb(47, 10, 89)); }
+
+.wr-fontcolor-1446{ background-image: linear-gradient(to right, rgb(236, 246, 224), rgb(33, 7, 63)); }
+
+.wr-fontcolor-1447{ background-image: linear-gradient(to right, rgb(236, 246, 224), rgb(151, 7, 245)); }
+
+.wr-fontcolor-1448{ background-image: linear-gradient(to right, rgb(236, 246, 224), rgb(202, 7, 245)); }
+
+.wr-fontcolor-1449{ background-image: linear-gradient(to right, rgb(236, 246, 224), rgb(248, 18, 229)); }
+
+.wr-fontcolor-1450{ background-image: linear-gradient(to right, rgb(141, 237, 30), rgb(187, 56, 85)); }
+
+.wr-fontcolor-1451{ background-image: linear-gradient(to right, rgb(141, 237, 30), rgb(111, 4, 27)); }
+
+.wr-fontcolor-1452{ background-image: linear-gradient(to right, rgb(237, 30, 237), rgb(111, 4, 27)); }
+
+.wr-fontcolor-1453{ background-image: linear-gradient(to right, rgb(237, 30, 237), rgb(170, 67, 90)); }
+
+.wr-fontcolor-1454{ background-image: linear-gradient(to right, rgb(237, 30, 237), rgb(248, 9, 61)); }
+
+.wr-fontcolor-1455{ background-image: linear-gradient(to right, rgb(24, 21, 24), rgb(221, 48, 86)); }
+
+.wr-fontcolor-1456{ background-image: linear-gradient(to right, rgb(185, 43, 185), rgb(185, 45, 75)); }
+
+.wr-fontcolor-1457{ background-image: linear-gradient(to right, rgb(185, 43, 185), rgb(248, 101, 13)); }
+
+.wr-fontcolor-1458{ background-image: linear-gradient(to right, rgb(126, 70, 29), rgb(39, 17, 3)); }
+
+.wr-fontcolor-1459{ background-image: linear-gradient(to right, rgb(126, 70, 29), rgb(41, 30, 24)); }
+
+.wr-fontcolor-1460{ background-image: linear-gradient(to right, rgb(126, 70, 29), rgb(22, 9, 2)); }
+
+.wr-fontcolor-1461{ background-image: linear-gradient(to right, rgb(126, 70, 29), rgb(0, 0, 0)); }
+
+.wr-fontcolor-1462{ background-image: linear-gradient(to right, rgb(150, 70, 13), rgb(0, 0, 0)); }
+
+.wr-fontcolor-1463{ background-image: linear-gradient(to right, rgb(232, 169, 125), rgb(0, 0, 0)); }
+
+.wr-fontcolor-1464{ background-image: linear-gradient(to right, rgb(89, 41, 7), rgb(0, 0, 0)); }
+
+.wr-fontcolor-1465{ background-image: linear-gradient(to right, rgb(59, 28, 5), rgb(0, 0, 0)); }
+
+.wr-fontcolor-1466{ background-image: linear-gradient(to right, rgb(91, 49, 19), rgb(0, 0, 0)); }
+
+.wr-fontcolor-1467{ background-image: linear-gradient(to right, rgb(39, 24, 13), rgb(0, 0, 0)); }
+
+.wr-fontcolor-1468{ background-image: linear-gradient(to right, rgb(122, 92, 70), rgb(0, 0, 0)); }
+
+.wr-fontcolor-1469{ background-image: linear-gradient(to right, rgb(245, 110, 13), rgb(0, 0, 0)); }
+
+.wr-fontcolor-1470{ background-image: linear-gradient(to right, rgb(183, 143, 113), rgb(0, 0, 0)); }
+
+.wr-fontcolor-1471{ background-image: linear-gradient(to right, rgb(241, 105, 7), rgb(0, 0, 0)); }
+
+.wr-fontcolor-1472{ background-image: linear-gradient(to right, rgb(122, 67, 28), rgb(0, 0, 0)); }
+
+.wr-fontcolor-1473{ background-image: linear-gradient(to right, rgb(122, 88, 28), rgb(0, 0, 0)); }
+
+.wr-fontcolor-1474{ background-image: linear-gradient(to right, rgb(93, 62, 7), rgb(0, 0, 0)); }
+
+.wr-fontcolor-1475{ background-image: linear-gradient(to right, rgb(93, 72, 35), rgb(0, 0, 0)); }
+
+.wr-fontcolor-1476{ background-image: linear-gradient(to right, rgb(211, 167, 91), rgb(0, 0, 0)); }
+
+.wr-fontcolor-1477{ background-image: linear-gradient(to right, rgb(40, 0, 0), rgb(0, 0, 0)); }
+
+.wr-fontcolor-1478{ background-image: linear-gradient(to right, rgb(168, 0, 0), rgb(0, 0, 0)); }
+
+.wr-fontcolor-1479{ background-image: linear-gradient(to right, rgb(193, 255, 209), rgb(0, 0, 0)); }
+
+.wr-fontcolor-1480{ background-image: linear-gradient(to right, rgb(60, 107, 132), rgb(113, 130, 79)); }
+
+.wr-fontcolor-1481{ background-image: linear-gradient(to right, rgb(54, 78, 91), rgb(113, 130, 79)); }
+
+.wr-fontcolor-1482{ background-image: linear-gradient(to right, rgb(14, 50, 69), rgb(113, 130, 79)); }
+
+.wr-fontcolor-1483{ background-image: linear-gradient(to right, rgb(14, 50, 69), rgb(98, 119, 56)); }
+
+.wr-fontcolor-1484{ background-image: linear-gradient(to right, rgb(14, 50, 69), rgb(81, 107, 27)); }
+
+.wr-fontcolor-1485{ background-image: linear-gradient(to right, rgb(14, 50, 69), rgb(61, 89, 6)); }
+
+.wr-fontcolor-1486{ background-image: linear-gradient(to right, rgb(14, 50, 69), rgb(87, 100, 60)); }
+
+.wr-fontcolor-1487{ background-image: linear-gradient(to right, rgb(14, 50, 69), rgb(49, 59, 27)); }
+
+.wr-fontcolor-1488{ background-image: linear-gradient(to right, rgb(14, 50, 69), rgb(185, 215, 125)); }
+
+.wr-fontcolor-1489{ background-image: linear-gradient(to right, rgb(14, 50, 69), rgb(235, 248, 208)); }
+
+.wr-fontcolor-1490{ background-image: linear-gradient(to right, rgb(85, 146, 209), rgb(235, 248, 208)); }
+
+.wr-fontcolor-1491{ background-image: linear-gradient(to right, rgb(12, 77, 146), rgb(235, 248, 208)); }
+
+.wr-fontcolor-1492{ background-image: linear-gradient(to right, rgb(182, 189, 166), rgb(235, 248, 208)); }
+
+.wr-fontcolor-1493{ background-image: linear-gradient(to right, rgb(123, 135, 94), rgb(232, 237, 223)); }
+
+.wr-fontcolor-1494{ background-image: linear-gradient(to right, rgb(222, 226, 210), rgb(232, 237, 223)); }
+
+.wr-fontcolor-1495{ background-image: linear-gradient(to right, rgb(184, 200, 167), rgb(232, 237, 223)); }
+
+.wr-fontcolor-1496{ background-image: linear-gradient(to right, rgb(184, 200, 167), rgb(202, 209, 186)); }
+
+.wr-fontcolor-1497{ background-image: linear-gradient(to right, rgb(184, 200, 167), rgb(196, 200, 186)); }
+
+.wr-fontcolor-1498{ background-image: linear-gradient(to right, rgb(184, 200, 167), rgb(211, 234, 189)); }
+
+.wr-fontcolor-1499{ background-image: linear-gradient(to right, rgb(184, 200, 167), rgb(163, 170, 156)); }
+
+.wr-fontcolor-1500{ background-image: linear-gradient(to right, rgb(110, 168, 204), rgb(228, 235, 248)); }
+
+.wr-fontcolor-1501{ background-image: linear-gradient(to right, rgb(87, 162, 209), rgb(228, 235, 248)); }
+
+.wr-fontcolor-1502{ background-image: linear-gradient(to right, rgb(11, 18, 32), rgb(81, 54, 45)); }
+
+.wr-fontcolor-1503{ background-image: linear-gradient(to right, rgb(255, 238, 213), rgb(255, 179, 154)); }
+
+.wr-fontcolor-1504{ background-image: linear-gradient(to right, rgb(248, 182, 243), rgb(234, 37, 22)); }
+
+.wr-fontcolor-1505{ background-image: linear-gradient(to right, rgb(248, 182, 243), rgb(148, 139, 53)); }
+
+.wr-fontcolor-1506{ background-image: linear-gradient(to right, rgb(248, 182, 243), rgb(125, 148, 53)); }
+
+.wr-fontcolor-1507{ background-image: linear-gradientto right, rgb(248, 182, 243), rgb(125, 148, 53)); }
+
+.wr-fontcolor-1508{ background-image: linear-gradient(to right, rgb(248, 182, 243), rgb(96, 148, 53)); }
+
+.wr-fontcolor-1509{ background-image: linear-gradient(to right, rgb(252, 220, 249), rgb(209, 232, 190)); }
+
+.wr-fontcolor-1510{ background-image: linear-gradient(to right, rgb(252, 220, 249), rgb(190, 232, 226)); }
+
+.wr-fontcolor-1511{ background-image: linear-gradient(to right, rgb(11, 1, 24), rgb(50, 47, 57)); }
+
+.wr-fontcolor-1512{ background-image: linear-gradient(to right, rgb(11, 1, 24), rgb(78, 89, 63)); }
+
+.wr-fontcolor-1513{ background-image: linear-gradient(to right, rgb(11, 1, 24), rgb(17, 28, 1)); }
+
+.wr-fontcolor-1514{ background-image: linear-gradient(to right, rgb(11, 1, 24), rgb(28, 9, 1)); }
+
+.wr-fontcolor-1515{ background-image: linear-gradient(to right, rgb(224, 181, 221), rgb(37, 2, 36)); }
+
+.wr-fontcolor-1516{ background-image: linear-gradient(to right, rgb(24, 22, 24), rgb(36, 37, 2)); }
+
+.wr-fontcolor-1517{ background-image: linear-gradient(to right, rgb(7, 7, 7), rgb(94, 95, 66)); }
+
+.wr-fontcolor-1518{ background-image: linear-gradient(to right, rgb(7, 7, 7), rgb(66, 95, 94)); }
+
+.wr-fontcolor-1519{ background-image: linear-gradient(to right, rgb(22, 3, 21), rgb(87, 73, 67)); }
+
+.wr-fontcolor-1520{ background-image: linear-gradient(to right, rgb(22, 3, 21), rgb(6, 18, 246)); }
+
+.wr-fontcolor-1521{ background-image: linear-gradient(to right, rgb(254, 8, 233), rgb(4, 16, 246)); }
+
+.wr-fontcolor-1522{ background-image: linear-gradient(to right, rgb(254, 8, 61), rgb(4, 16, 246)); }
+
+.wr-fontcolor-1523{ background-image: linear-gradient(to right, rgb(9, 11, 246), rgb(9, 245, 150)); }
+
+.wr-fontcolor-1524{ background-image: linear-gradient(to right, rgb(195, 206, 208), rgb(173, 234, 201)); }
+
+.wr-fontcolor-1525{ background-image: linear-gradient(to right, rgb(7, 20, 22), rgb(173, 234, 201)); }
+
+.wr-fontcolor-1526{ background-image: linear-gradient(to right, rgb(7, 20, 22), rgb(119, 158, 137)); }
+
+.wr-fontcolor-1527{ background-image: linear-gradient(to right, rgb(96, 127, 132), rgb(119, 158, 137)); }
+
+.wr-fontcolor-1528{ background-image: linear-gradient(to right, rgb(15, 34, 37), rgb(36, 46, 41)); }
+
+.wr-fontcolor-1529{ background-image: linear-gradient(to right, rgb(41, 49, 50), rgb(36, 46, 41)); }
+
+.wr-fontcolor-1530{ background-image: linear-gradient(to right, rgb(41, 49, 50), rgb(174, 217, 194)); }
+
+.wr-fontcolor-1531{ background-image: linear-gradient(to right, rgb(28, 60, 93), rgb(151, 187, 168)); }
+
+.wr-fontcolor-1532{ background-image: linear-gradient(to right, rgb(55, 56, 57), rgb(151, 187, 168)); }
+
+.wr-fontcolor-1533{ background-image: linear-gradient(to right, rgb(15, 36, 59), rgb(151, 187, 168)); }
+
+.wr-fontcolor-1534{ background-image: linear-gradient(to right, rgb(15, 36, 59), rgb(152, 232, 189)); }
+
+.wr-fontcolor-1535{ background-image: linear-gradient(to right, rgb(48, 54, 61), rgb(1, 20, 10)); }
+
+.wr-fontcolor-1536{ background-image: linear-gradient(to right, rgb(240, 241, 243), rgb(219, 224, 221)); }
+
+.wr-fontcolor-1537{ background-image: linear-gradient(to right, rgb(42, 49, 57), rgb(57, 78, 62)); }
+
+.wr-fontcolor-1538{ background-image: linear-gradient(to right, rgb(221, 224, 111), rgb(65, 64, 17)); }
+
+.wr-fontcolor-1539{ background-image: linear-gradient(to right, rgb(250, 252, 191), rgb(65, 64, 17)); }
+
+.wr-fontcolor-1540{ background-image: linear-gradient(to right, rgb(250, 252, 191), rgb(47, 65, 17)); }
+
+.wr-fontcolor-1541{ background-image: linear-gradient(to right, rgb(250, 252, 191), rgb(15, 30, 2)); }
+
+.wr-fontcolor-1542{ background-image: linear-gradient(to right, rgb(250, 252, 191), rgb(2, 30, 7)); }
+
+.wr-fontcolor-1543{ background-image: linear-gradient(to right, rgb(250, 252, 191), rgb(2, 4, 30)); }
+
+.wr-fontcolor-1544{ background-image: linear-gradient(to right, rgb(250, 252, 191), rgb(14, 2, 30)); }
+
+.wr-fontcolor-1545{ background-image: linear-gradient(to right, rgb(250, 252, 191), rgb(30, 2, 30)); }
+
+.wr-fontcolor-1546{ background-image: linear-gradient(to right, rgb(250, 252, 191), rgb(7, 7, 7)); }
+
+.wr-fontcolor-1547{ background-image: linear-gradient(to right, rgb(193, 248, 217), rgb(7, 7, 7)); }
+
+.wr-fontcolor-1548{ background-image: linear-gradient(to right, rgb(40, 85, 59), rgb(9, 60, 70)); }
+
+.wr-fontcolor-1549{ background-image: linear-gradient(to right, rgb(115, 226, 162), rgb(37, 56, 59)); }
+
+.wr-fontcolor-1550{ background-image: linear-gradient(to right, rgb(115, 226, 162), rgb(3, 42, 50)); }
+
+.wr-fontcolor-1551{ background-image: linear-gradient(to right, rgb(115, 226, 162), rgb(197, 217, 221)); }
+
+.wr-fontcolor-1552{ background-image: linear-gradient(to right, rgb(163, 254, 201), rgb(131, 226, 87)); }
+
+.wr-fontcolor-1553{ background-image: linear-gradient(to right, rgb(163, 254, 201), rgb(163, 254, 201)); }
+
+.wr-fontcolor-1554{ background-image: linear-gradient(to right, rgb(163, 254, 201), rgb(205, 241, 220)); }
+
+.wr-fontcolor-1555{ background-image: linear-gradient(to right, rgb(163, 254, 201), rgb(60, 100, 77)); }
+
+.wr-fontcolor-1556{ background-image: linear-gradient(to right, rgb(163, 254, 201), rgb(153, 234, 187)); }
+
+.wr-fontcolor-1557{ background-image: linear-gradient(to right, rgb(104, 165, 130), rgb(24, 82, 48)); }
+
+.wr-fontcolor-1558{ background-image: linear-gradient(to right, rgb(248, 211, 250), rgb(169, 98, 248)); }
+
+.wr-fontcolor-1559{ background-image: linear-gradient(to right, rgb(227, 161, 230), rgb(169, 98, 248)); }
+
+.wr-fontcolor-1560{ background-image: linear-gradient(to right, rgb(227, 161, 230), rgb(248, 98, 150)); }
+
+.wr-fontcolor-1561{ background-image: linear-gradient(#52acff 8%, #d4ff2c 33%, #b52020 66%, #f3eee9 100%); }
+
+.wr-fontcolor-1562{ background-image: linear-gradient(to right, #ccade2 0%, #62ffb9 19%, #00e1ff 39%, #f1878f 60%, #efed9b 80%, #efccee 100%); }
+
+.wr-fontcolor-1563{ background-image: linear-gradient(to right, #a13fe7 0%, #62ffb9 19%, #00e1ff 39%, #f1878f 60%, #efed9b 80%, #f10ce6 100%); }
+
+.wr-fontcolor-1564{ background-image: linear-gradient(to right, #3fe78b 0%, #9af17b 19%, #13ff00 39%, #2ef573 60%, #b9ef9b 80%, #0cf18c 100%); }
+
+.wr-fontcolor-1565{ background-image: linear-gradient(to right, #3fe78b 0%, #9bfda4 19%, #aae9a6 39%, #2ef573 60%, #94efa4 80%, #a7efcf 100%); }
+
+.wr-fontcolor-1566{ background-image: linear-gradient(to right, #cef1de 0%, #9bfda4 19%, #aae9a6 39%, #b0f1a7 60%, #94efa4 80%, #a7efcf 100%); }
+
+.wr-fontcolor-1567{ background-image: linear-gradient(to right, #cef1de 0%, #f2fd9b 19%, #e1a6e9 39%, #aea7f1 60%, #94efa4 80%, #a7efcf 100%); }
+
+.wr-fontcolor-1568{ background-image: linear-gradient(to right, #0b7ce4 0%, #d4ff2c 33%, #b52020 66%, #d87410 100%); }
+
+.wr-fontcolor-1569{ background-image: linear-gradient(to right, #ffe53b 0%, #ff2525 37%, #ffffff 100%); }
+
+.wr-fontcolor-1570{ background-image: linear-gradient(to right, #faaca8 0%, #a18fda 33%, #82dcdb 66%, #ffffff 100%); }
+
+.wr-fontcolor-1571{ background-image: linear-gradient(to right, #faaca8 0%, #d6cdf3 33%, #82dcdb 66%, #ffffff 100%); }
+
+.wr-fontcolor-1572{ background-image: linear-gradient(to right, #00dbde 0%, #fc00ff 50%, #ce0b0b 100%); }
+
+.wr-fontcolor-1573{ background-image: linear-gradient(to right, #00dbde 0%, #fc00ff 100%); }
+
+.wr-fontcolor-1574{ background-image: linear-gradient(to right, #120b4a 0%, #2bd2ff 52%, #2bff88 90%); }
+
+.wr-fontcolor-1575{ background-image: linear-gradient(to right, #370e80 0%, #8cf394 33%, #e9f980 66%, #efc7c7 100%); }
+
+.wr-fontcolor-1576{ background-image: linear-gradient(to right, #0e8041 0%, #8cf394 50%, #ffffff 100%); }
+
+.wr-fontcolor-1577{ background-image: linear-gradient(to right, #370e81 0%, #8cf394 33%, #e9f980 66%, #efc7c7 100%); }
+
+.wr-fontcolor-1578{ background-image: linear-gradient(to right, #afff9c 0%, #d8ffd5 50%, #d8ffd5 50%, #afff9c 100%, #afff9c 0%); }
+
+.wr-fontcolor-1579{ background-image: linear-gradient(to right, #dbff9c 0%, #f5f2c9 50%, #f5f2c9 50%, #dbff9c 100%, #dbff9c 0%); }
+
+.wr-fontcolor-1580{ background-image: linear-gradient(to right, #ffd278 0%, #f5f2c9 50%, #f5f2c9 50%, #ffd278 100%, #ffd278 0%); }
+
+.wr-fontcolor-1581{ background-image: linear-gradient(to right, #72baba 0%, #c9e4e4 50%, #c9e4e4 50%, #72baba 100%, #72baba 0%); }
+
+.wr-fontcolor-1582{ background-image: linear-gradient(to right, #ff453c 0%, #ffd7d5 50%, #ffd7d5 50%, #ff453c 100%, #ff453c 0%); }
+
+.wr-fontcolor-1583{ background-image: linear-gradient(to right, #86dbdb 0%, #c9e4e4 50%, #c9e4e4 50%, #86dbdb 100%, #86dbdb 0%); }
+
+.wr-fontcolor-1584{ background-image: linear-gradient(to right, #79ba83 0%, #a5ffb4 50%, #a5ffb4 50%, #79ba83 100%, #79ba83 0%); }
+
+.wr-fontcolor-1585{ background-image: linear-gradient(to right, #76ba61 0%, #afff9c 50%, #afff9c 50%, #76ba61 100%, #76ba61 0%); }
+
+.wr-fontcolor-1586{ background-image: linear-gradient(to right, #8dde74 0%, #afff9c 50%, #afff9c 50%, #8dde74 100%, #8dde74 0%); }
+
+.wr-fontcolor-1587{ background-image: linear-gradient(to right, rgba(121,189,189,1) 0%,rgba(144,200,200,1) 8%,rgba(144,200,200,1) 8%,rgba(173,214,214,1) 26%,rgba(173,214,214,1) 76%,rgba(144,200,200,1) 100%); }
+
+.wr-fontcolor-1588{ background-image: linear-gradient(to right, red, green, yellow, blue ); }
+
+.wr-fontcolor-1589{ color: #e8ebde; }
+
+.wr-fontcolor-1590{ color: #2c2c2c; }
+
+.wr-fontcolor-1591{ background-image: linear-gradient(to right, #ceffce 0%, #d9ffd9 50%, #d9ffd9 150%, #ceffce 125%, #d9ffd9 112.5%, #ceffce 0%); }
+
+.wr-fontcolor-1592{ background-image: linear-gradient(to right, #c4ecff 0%, #ceefff 50%, #ceefff 150%, #c4ecff 125%, #ceefff 112.5%, #c4ecff 0%); }
+
+.wr-fontcolor-1593{ background-image: linear-gradient(to right, #ffd2ff 0%, #ffddff 50%, #ffddff 150%, #ffd2ff 125%, #ffddff 112.5%, #ffd2ff 0%); }
+
+.wr-fontcolor-1594{ color: #a4dbd2; }
+
+.wr-fontcolor-1595{ background-image: linear-gradient(to right, #ffffca 0%, #ffffdf 50%, #ffffd5 150%, #ffffd5 125%, #ffffdf 112.5%, #ffffca 0%); }
+
+.wr-fontcolor-1596{ color: #181f1c; }
+
+.wr-fontcolor-1597{ color: #c9d6d0; }
+
+.wr-fontcolor-1598{ color: #930989; }
+
+.wr-fontcolor-1599{ color: #ffffbf; }
+
+.wr-fontcolor-1600{ color: #250743; }
+
+.wr-fontcolor-1601{ color: #d3b315; }
+
+.wr-fontcolor-1602{ color: #ffffa4; }
+
+.wr-fontcolor-1603{ color: #fff402; }
+
+.wr-fontcolor-1604{ color: #bf194e; }
+
+.wr-fontcolor-1605{ color: #e8ea86; }
+
+.wr-fontcolor-1606{ color: #a8cf45; }
+
+.wr-fontcolor-1607{ color: #000911; }
+
+.wr-fontcolor-1608{ color: #5e2f77; }
+
+.wr-fontcolor-1609{ color: #ff0fcb; }
+
+.wr-fontcolor-1610{ color: #b3e7ff; }
+
+.wr-fontcolor-1611{ color: #e600ff; }
+
+.wr-fontcolor-1612{ color:	 rgba(13,47,48,1); } background: -moz-radial-gradient(center, ellipse cover, rgba(13,47,48,1) 0%, rgba(2,18,41,1) 100%); } background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(13,47,48,1)), color-stop(100%, rgba(2,18,41,1))); } background: -webkit-radial-gradient(center, ellipse cover, rgba(13,47,48,1) 0%, rgba(2,18,41,1) 100%); } background: -o-radial-gradient(center, ellipse cover, rgba(13,47,48,1) 0%, rgba(2,18,41,1) 100%); } background: -ms-radial-gradient(center, ellipse cover, rgba(13,47,48,1) 0%, rgba(2,18,41,1) 100%); } background: radial-gradient(ellipse at center, rgba(13,47,48,1) 0%, rgba(2,18,41,1) 100%); } filter: progid:dximagetransform.microsoft.gradient( startcolorstr='#0d2f30', endcolorstr='#021229', gradienttype=1 ); }
+
+.wr-fontcolor-1613{ color: #0c0d21; }	
+
+.wr-fontcolor-1614{ color: #586c9c; }	
+
+.wr-fontcolor-1615{ color: #7500ea; }	
+
+.wr-fontcolor-1616{ color: #0099cc; }	
+
+.wr-fontcolor-1617{ color: #ff0482; }	
+
+.wr-fontcolor-1618{ color: #0080ff; }	
+
+.wr-fontcolor-1619{ color: #e8d2e2; }	
+
+.wr-fontcolor-1620{ color: #a9a0f1; }
+
+.wr-fontcolor-1621{ color: #17002d; }
+
+.wr-fontcolor-1622{ color: #b4afe2; }
+
+.wr-fontcolor-1623{ color: #0e0f16; }
+
+.wr-fontcolor-1624{ color: #3498db; }
+
+.wr-fontcolor-1625{ color: #2c3e50; }
+
+.wr-fontcolor-1626{ color: #e74c3c; }
+
+.wr-fontcolor-1627{ color: #ecf0f1; }
+
+.wr-fontcolor-1628{ color: #333; }
+
+.wr-fontcolor-1629{ color: #cffff5; }
+
+.wr-fontcolor-1630{ color: #303831; }
+
+.wr-fontcolor-1631{ color: #0d1328; }
+
+.wr-fontcolor-1632{ color: #382726; }
+
+.wr-fontcolor-1633{ color: #7bc0a9; }
+
+.wr-fontcolor-1634{ color: #283745; }
+
+.wr-fontcolor-1635{ color: #7bc0a9; }
+
+.wr-fontcolor-1636{ color: #a93b60; }
+
+.wr-fontcolor-1637{ color: #ece2db; }
+
+.wr-fontcolor-1638{ color: #1f2633; }
+
+.wr-fontcolor-1639{ color: #fc4444; }
+
+.wr-fontcolor-1640{ color: #c8f0f6; }
+
+.wr-fontcolor-1641{ color: #183c61; }
+
+.wr-fontcolor-1642{ color: #2b3532; }
+
+.wr-fontcolor-1643{ color: #106465; }
+
+.wr-fontcolor-1644{ color: #d1eae4; }
+
+.wr-fontcolor-1645{ color: #fee400; }
+
+.wr-fontcolor-1646{ color: #12a66a; }
+
+.wr-fontcolor-1647{ color: #ff642e; }
+
+.wr-fontcolor-1648{ color: #262626; }
+
+.wr-fontcolor-1649{ color: #212528; }
+
+.wr-fontcolor-1650{ color: #f7e99f; }
+
+.wr-fontcolor-1651{ color: #f76c6c; }
+
+.wr-fontcolor-1652{ color: #16232a; }
+
+.wr-fontcolor-1653{ color: #89bcbb; }
+
+.wr-fontcolor-1654{ color: #244f57; }
+
+.wr-fontcolor-1655{ color: #0f2c31; }
+
+.wr-fontcolor-1656{ color: #4e4b40; }
+
+.wr-fontcolor-1657{ color: #6c6557; }
+
+.wr-fontcolor-1658{ color: #a8abb7; }
+
+.wr-fontcolor-1659{ color: #474965; }
+
+.wr-fontcolor-1660{ color: #16232a; }
+
+.wr-fontcolor-1661{ color: #29303a; }
+
+.wr-fontcolor-1662{ color: #222528; }
+
+.wr-fontcolor-1663{ color: #fe7c5d; }
+
+.wr-fontcolor-1664{ color: #ddf0b7; }
+
+.wr-fontcolor-1665{ color: #f8f8ec; }
+
+.wr-fontcolor-1666{ color: #f6f6f6; }
+
+.wr-fontcolor-1667{ color: #095a3c; }
+
+.wr-fontcolor-1668{ color: #e92e5f; }
+
+.wr-fontcolor-1669{ color: #a80986; }
+
+.wr-fontcolor-1670{ color: #ff4f4f; }
+
+.wr-fontcolor-1671{ color: #17021e; }
+
+.wr-fontcolor-1672{ color: #efb87f; }
+
+.wr-fontcolor-1673{ color: #f1cc67; }
+
+.wr-fontcolor-1674{ color: #c61d21; }
+
+.wr-fontcolor-1675{ color: #cf6066; }
+
+.wr-fontcolor-1676{ color: #e9767b; }
+
+.wr-fontcolor-1677{ color: #fcd29b; }
+
+.wr-fontcolor-1678{ color: #f9dcc5; }
+
+.wr-fontcolor-1679{ color: #525a44; }
+
+.wr-fontcolor-1680{ color: #719138; }
+
+/* cores do bootstrap */
+.wr-fontcolor-1681{ color: #f8fafb; }
+
+.wr-fontcolor-1682{ color: #f8fafb; }
+
+.wr-fontcolor-1683{ color: #6a747c; }
+
+.wr-fontcolor-1684{ color: ; #343a3f}
+
+.wr-fontcolor-1685{ color: ; #dd3e44}
+
+.wr-fontcolor-1686{ color: ; #febf00}
+
+.wr-fontcolor-1687{ color: ; #1aa245}
+
+.wr-fontcolor-1688{ color: ; #01a1b8}
+
+.wr-fontcolor-1689{ color: ; #0080ff}
+
+.wr-fontcolor-1690{ color: ; #f9a499}
+
+.wr-fontcolor-1691{ color: ; #f85f49}
+
+.wr-fontcolor-1692{ color: ; #eff0f1}
+
+.wr-fontcolor-1693{ color: ; #dddee1}
+
+.wr-fontcolor-1694{ color: ; #f5c5cb}
+
+.wr-fontcolor-1695{ color: ; #feefb3}
+
+.wr-fontcolor-1696{ color: ; #bbe4eb}
+
+.wr-fontcolor-1697{ color: ; #b5d8fe}
+
+.wr-fontcolor-1698{ color: ; #c1e7ca}
+/* .//cores do bootstrap */
+
+.wr-fontcolor-1699{ color: #d1d1c9; }
+
+.wr-fontcolor-1700{ color: #d6d2c7; }
+
+.wr-fontcolor-1701{ color: #f5f5f3; }
+
+.wr-fontcolor-1702{ color: #3d4335; }
+
+.wr-fontcolor-1703{ color: #4b3c34; }
+
+.wr-fontcolor-1704{ color: #292521; }
+
+.wr-fontcolor-1705{ color: #1b1918; }
+
+.wr-fontcolor-1706{ color: #d83900; }
+
+.wr-fontcolor-1707{ color: #222631; }
+
+.wr-fontcolor-1708{ color: #d9b475; }
+
+.wr-fontcolor-1709{ color: #2b2a29; }
+
+.wr-fontcolor-1710{ color: #2e2423; }
+
+.wr-fontcolor-1711{ color: #b59a80; }
+
+.wr-fontcolor-1712{ color: #ab9a80; }
+
+.wr-fontcolor-1713{ color: #a39f83; }
+
+.wr-fontcolor-1714{ color: #9aa28b; }
+
+.wr-fontcolor-1715{ color: #b1ad3d; }
+
+.wr-fontcolor-1716{ color: #954a25; }
+
+.wr-fontcolor-1717{ color: #f0f482; }
+
+.wr-fontcolor-1718{ color: #6a6158; }
+
+.wr-fontcolor-1719{ color: #eff0f1; }
+
+.wr-fontcolor-1720{ color: #8e8981; }
+
+.wr-fontcolor-1721{ color: #7c776f; }
+
+.wr-fontcolor-1722{ color: #8f8a83; }
+
+.wr-fontcolor-1723{ color: #241c12; }
+
+.wr-fontcolor-1724{ color: #41403e; }
+
+.wr-fontcolor-1725{ color: #ec4f26; }
+
+.wr-fontcolor-1726{ color: #f4f1e0; }
+
+.wr-fontcolor-1728{ color: #b9824d; }
+
+.wr-fontcolor-1729{ color: #a0725a; }
+
+.wr-fontcolor-1730{ color: #5a030c; }
+
+.wr-fontcolor-1731{ color: #700715; }
+
+.wr-fontcolor-1732{ color: #1b3530; }
+
+.wr-fontcolor-1733{ color: #59574a; }
+
+.wr-fontcolor-1734{ color: #e9d8d7; }
+
+.wr-fontcolor-1735{ color: #e9cbc3; }
+
+.wr-fontcolor-1736{ color: #edd6d2; }
+
+.wr-fontcolor-1737{ color: #e7b3a6; }
+
+.wr-fontcolor-1738{ color: #dcaa9f; }
+
+.wr-fontcolor-1739{ color: #d39d8e; }
+
+.wr-fontcolor-1740{ color: #daa39d; }
+
+.wr-fontcolor-1741{ color: #d99d95; }
+
+.wr-fontcolor-1742{ color: #d49795; }
+
+.wr-fontcolor-1743{ color: #d5d5d5; }
+
+.wr-fontcolor-1744{ color: #b7b5b6; }
+
+.wr-fontcolor-1745{ color: #cecece; }
+
+.wr-fontcolor-1746{ color: #eef9fc; }
+
+.wr-fontcolor-1747{ color: #aa3b33; }
+
+.wr-fontcolor-1748{ color: #00e8c4; }
+
+.wr-fontcolor-1749{ color: #5f5950; }
+
+.wr-fontcolor-1750{ color: #9da5a9; }
+
+.wr-fontcolor-1751{ color: #7b7d7f; }
+
+.wr-fontcolor-1752{ color: #eaf0f1; }
+
+.wr-fontcolor-1753{ color: #adc1c2; }
+
+.wr-fontcolor-1754{ color: #e57bd7; }
+
+.wr-fontcolor-1755{ color: #ff887a; }
+
+.wr-fontcolor-1756{ color: #ff887a; }
+
+.wr-fontcolor-1757{ color: #42294c; }
+
+.wr-fontcolor-1758{ color: #2b1338; }
+
+.wr-fontcolor-1759{ color: #323337; }
+
+.wr-fontcolor-1760{ color: #a4e4d2; }
+
+.wr-fontcolor-1761{ color: #babcbd; }
+
+.wr-fontcolor-1762{ color: #babcbd; }
+
+.wr-fontcolor-1763{ color: #bbbdbe; }
+
+.wr-fontcolor-1764{ color: #ed704d; }
+
+.wr-fontcolor-1765{ color: #2c63bb; }
+
+.wr-fontcolor-1766{ color: #1976f2; }
+
+.wr-fontcolor-1767{ color: #263142; }
+
+.wr-fontcolor-1768{ color: #292224; }
+
+.wr-fontcolor-1769{ color: #c69d7f; }
+
+.wr-fontcolor-1770{ color: #9fc5d6; }
+
+.wr-fontcolor-1771{ color: #18222e; }
+
+.wr-fontcolor-1772{ color: #184552; }
+
+.wr-fontcolor-1773{ color: #2a433f; }
+
+.wr-fontcolor-1774{ color: #194142; }
+
+.wr-fontcolor-1775{ color: #1a424e; }
+
+.wr-fontcolor-1776{ color: #132c28; }
+
+.wr-fontcolor-1777{ color: #1c4344; }
+
+.wr-fontcolor-1778{ color: #255455; }
+
+.wr-fontcolor-1779{ color: #984e9b; }
+
+.wr-fontcolor-1780{ color: #cebacc; }
+
+.wr-fontcolor-1781{ color: #6d435a; }
+
+.wr-fontcolor-1782{ color: #7a367c; }
+
+.wr-fontcolor-1783{ color: #7d377d; }
+
+.wr-fontcolor-1784{ color: #b1b59f; }
+
+.wr-fontcolor-1785{ color: #546364; }
+
+.wr-fontcolor-1786{ color: #96658a; }
+
+.wr-fontcolor-1787{ color: #a6674c; }
+
+.wr-fontcolor-1788{ color: #5e5d7d; }
+
+.wr-fontcolor-1789{ color: #38525d; }
+
+.wr-fontcolor-1790{ color: #6290a7; }
+
+.wr-fontcolor-1791{ color: #f8f8f6; }
+
+.wr-fontcolor-1792{ color: #e7e7da; }
+
+.wr-fontcolor-1793{ color: #e6e5e1; }
+
+.wr-fontcolor-1794{ color: #c4b2cc; }
+
+.wr-fontcolor-1795{ color: #ecfb9f; }
+
+.wr-fontcolor-1796{ color: #f8fbfe; }
+
+.wr-fontcolor-1797{ color: #eff0f1; }
+
+.wr-fontcolor-1798{ color: #c3cab0; }
+
+.wr-fontcolor-1799{ color: #97a5a8; }
+
+.wr-fontcolor-1800{ color: #cdd3d3; }
