@@ -1,3 +1,5 @@
+/* JS criado por https://websim.com -- 30/09/2025 */
+
 // DOM Elements
 const headerFixed = document.getElementById('headerFixed');
 const headerCentered = document.getElementById('headerCentered');
@@ -402,4 +404,5 @@ refreshPreview.addEventListener('click', generateTemplate);
 
 // Generate initial template
 generateTemplate();
+
 
